@@ -10,7 +10,7 @@ highlighter: pygments
 #
 title : Jekyll Bootstrap
 tagline: Site Tagline
-author :
+author :blah@email.test
   name : Name Lastname
   email : blah@email.test
   github : username
