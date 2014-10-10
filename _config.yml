@@ -15,7 +15,7 @@ author:
   email : rems.rox@gmail.com
   github : RobyRemzy
   twitter : remstw
-  feedburner : feedRobyR
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -80,17 +80,17 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
-      short_name : jekyllbootstrap
+      short_name : 
     livefyre :
-      site_id : 123
+      site_id : 
     intensedebate :
-      account : 123abc
+      account : 
     facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
+      appid : 
+      num_posts: 
+      width: 
       colorscheme: light
    
   # Settings for analytics helper
@@ -98,7 +98,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : false 
     google : 
         tracking_id : 'UA-123-12'
     getclicky :
