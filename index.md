@@ -1,21 +1,9 @@
 ---
-layout: page
-title: Purpose in Progress
-tagline: 
+layout: home
+excerpt: "On Top Topics On Progress"
+tags: [blog, tuto, linux, photo]
+image:
+  feature: index-test2.jpg
+  credit: bazdesh & Mickka from deviantart & RombyRemzy
+  creditlink: 
 ---
-{% include JB/setup %}
-
-## Posts
-
-Here's a "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
--  About Page or a relevant index
--  Personal Themes
