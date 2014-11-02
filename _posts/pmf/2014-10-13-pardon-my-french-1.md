@@ -101,7 +101,7 @@ Cependant cela restait quand même un peut lourd à installer et configurer.
 Ce n'est qu'en milieu d'année 2014 que je me lance dans le site web statique [http://jekyllrb.com/](http://jekyllrb.com/) 
 C'est ultra simple que ce soit à mettre en place ou qu'à édité. Cela correspond bien à ma philosophie et j'en suis content.
 
-Voiçi comment j'ai fait [pour le metre en place](../myman/#host-website-on-github)
+Voiçi comment j'ai fait [pour le metre en place](http://robyremzy.github.io/myman/#host-website-on-github)
 
 
 **Pro-tip:** Crée un compte [GitHub](https://github.com/) et vous pouvez `fork` ou voire tous le `code source` de mon site web à l'adressse 
