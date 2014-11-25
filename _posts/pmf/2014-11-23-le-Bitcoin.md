@@ -2,7 +2,7 @@
 layout: post
 title: "Le Bitcoin en vidéo"
 modified:
-categories:pmf
+categories: pmf
 excerpt:"Le Bitcoin! Tous ce qu'il y à savoir sans stress"
 tags: []
 image:
