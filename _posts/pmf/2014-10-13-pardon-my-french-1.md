@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Pardon My French #1"
+title: "Comment toutes a débuté... 'bip'!"
 modified:
 categories: pmf
-excerpt: "Rems tu Blog 1,2 et 3 ca vie sur le Net Mondial!!!"
+excerpt: "Pardon My French: Rems tu Blog! Lol ca vie sur le Net Mondial!!!"
 tags: [PardonMyFrench]
 comments: true
 image:
