@@ -24,57 +24,95 @@ SUMMARY
 ============
 
 
-
-INSTALLS ON DEBIAN AND UBUNTU
-------
-
-Check your CPU
-
-{% highlight bash %}
-$ if [[ $(sed -n '/flags/{/ lm / p;q}' /proc/cpuinfo) ]] ; then echo "Compatible 64 bits" ; else echo "Non-compatible 64 bits" ; fi
-$ lscpu | grep bit
-$ cat /proc/cpuinfo
-{% endhighlight %}
-
-Check RAM
+# Bash_aliases Exemple #
+The file `bash_a&liases` have to be store inside your `/home/user/.bash_aliases`
+<br>
+To understand more about Bash and alias i suggest you to check this page[Bash Aliases ex on Wikipedia](https://en.wikipedia.org/wiki/Alias_%28command%29)
 
 {% highlight bash %}
-$ sudo dmidecode | grep -B 1 "Form Factor: DIMM"
-$ sudo dmidecode -t memory
+#!/bin/bash
+# ~/.bash_aliases
+
+## Navigation ##
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+alias ......='cd ../../../../..'
+alias .......='cd ../../../../../..'
+alias ........='cd ../../../../../../..'
+
+## UBUNTU ##
+alias agu='sudo apt-get update'
+alias agg='sudo apt-get upgrade'
+alias agc='sudo apt-get clean'
+alias distro='uname -m && uname -a && lsb_release -a'
+
+alias cp='cp -i'
+alias mv='mv -i'
+
+## NETWORK ##
+alias wget='wget -c'
+alias ping='ping -c 4'
+alias myip='dig +short myip.opendns.com @resolver1.opendns.com'
+
+## pass options to free ##
+alias meminfo='free -m -l -t'
+alias ram='sudo dmidecode | grep -B 1 "Form Factor: DIMM" && print MORE WITH: sudo dmidecode -t memory'
+
+## get top process eating memory ##
+alias psmem='ps auxf | sort -nr -k 4'
+alias psmem10='ps auxf | sort -nr -k 4 | head -10'
+
+## get top process eating cpu ##
+alias pscpu='ps auxf | sort -nr -k 3'
+alias pscpu10='ps auxf | sort -nr -k 3 | head -10'
+
+## Get server cpu info ##
+alias cpuinfo='lscpu && lscpu | grep bit && cat /proc/cpuinfo'
+
+## get GPU ram on desktop / laptop ##
+alias gpumeminfo='lspci | grep "VGA compatible controller" && grep -i --color memory /var/log/Xorg.0.log && lspci -v | grep -A 12 VGA && lshw -enable pci -class display && grep /drivers/ /var/log/Xorg.0.log'
+
+## set some other defaults ##
+alias df='df -H'
+alias du='du -ch'
+
+## top is atop ##
+alias top='atop'
+
+## extract ##
+extract () {
+  if [ -f "$1" ] ; then
+    case "$1" in
+      *.tar.bz2)   tar xvjf "$1"    ;;
+      *.tar.gz)    tar xvzf "$1"    ;;
+      *.tar.xz)    tar xvJf "$1"    ;;
+      *.bz2)       bunzip2 "$1"     ;;
+      *.rar)       unrar x "$1"     ;;
+      *.gz)        gunzip "$1"      ;;
+      *.tar)       tar xvf "$1"     ;;
+      *.tbz2)      tar xvjf "$1"    ;;
+      *.tgz)       tar xvzf "$1"    ;;
+      *.zip)       unzip "$1"       ;;
+      *.Z)         uncompress "$1"  ;;
+      *.7z)        7z x "$1"        ;;
+      *.xz)        unxz "$1"        ;;
+      *.exe)       cabextract "$1"  ;;
+      *)           echo "'$1': unrecognized file compression" ;;
+    esac
+  else
+    echo "'$1' is not a valid file"
+  fi
+}
+
+
+
 {% endhighlight %}
 
-Check Graphique card
 
-{% highlight bash %}
-$ lspci -v | grep -A 12 VGA
-$ lspci | grep "VGA compatible controller"
-$ lshw -enable pci -class display
-$ grep /drivers/ /var/log/Xorg.0.log
-{% endhighlight %}
 
-Check your distribution
 
-{% highlight bash %}
-$ uname -m
-$ uname -a
-$ lsb_release -a
-{% endhighlight %}
-
-Basic need
-
-{% highlight bash %}
-$ sudo apt-get install install build-essential sysinfo hardinfo geany links2 markdown sparkleshare gThumb synaptic 
-{% endhighlight %}
-
-PACKAGES
-------
-
-* [Master PDF](http://code-industry.net/free-pdf-editor.php)
-* [PortableSigner](http://sourceforge.net/projects/portablesigner/files/portablesigner/2.0-Release/)
-* [BitTorrent Sync Desktop GUI Package](http://www.yeasoft.com/site/projects:btsync-deb:btsync-gui)
-* [Atom Editor](https://github.com/atom/atom/releases/latest) or [Atom with Git](https://github.com/atom/atom/blob/master/docs/build-instructions/linux.md)
-
-___
 
 Make you own certificat for Authentification in PDF email and server
 ======
@@ -87,36 +125,6 @@ Make you own certificat for Authentification in PDF email and server
 
 
 
-___
-
-
-VirtualBox
-------
-
-Install by Oracle deposit, update sources.liste, install virtualbox4.3
-
-{% highlight bash %} 
-$ echo "deb http://download.virtualbox.org/virtualbox/debian `lsb_release -sc` contrib" | sudo tee -a /etc/apt/sources.list.d/virtualbox.list && wget -q http://download.virtualbox.org/virtualbox/debian/oracle_vbox.asc -O- | sudo apt-key add - && sudo apt-get update && sudo apt-get install virtualbox-4.3
-{% endhighlight %}
-
-Make also sure that you are part of the `vboxusers` group.
-{% highlight bash %}
-$ sudo usermod -G vboxusers -a $USER
-{% endhighlight %}
-
-install `DKMS` module?
-{% highlight bash %}
-$ sudo apt-get install virtualbox-dkms
-{% endhighlight %}
-
-Compiles VirtualBox kernel modules each time a new kernel update is available.
-{% highlight bash %}
-$ sudo /etc/init.d/vboxdrv status
-$ sudo /etc/init.d/vboxdrv setup
-{% endhighlight %}
-
-
-___
 
 
 Ubuntu VPN avec Open VPN
@@ -134,7 +142,7 @@ So now you `vpngate_xxx.xxx.xx.xx_udp_xxxx.ovpn` is smaller with just the needed
 
     # sudo apt-get install openvpn network-manager-openvpn
 
-Click Network Connections icon -> VPN Connections -> Configure VPN, then Add -> Import a saved VPN connection (in the scroll down menu), then Create, 
+Click Network Connections icon -> VPN Connections -> Configure VPN, then Add -> Import a saved VPN connection (in the scroll down menu), then Create,
 now select your downloaded and chopped OpenVPN config file .ovpn as well as the `ca.crt, ca-user.crt` and the `ca-key.crt`
 
 	username: vpn
@@ -224,7 +232,7 @@ http://robyremzy.github.io/index.html#start-now
 
 http://jekyllrb.com/docs/installation/
 
-Befor editing a file or document check you are working on the last update by doing a 
+Befor editing a file or document check you are working on the last update by doing a
 
 {% highlight bash %}
 $ git pull
@@ -262,27 +270,6 @@ This will create a page at `/new-page/index.md`
 
 ____
 
-GeanyMotion
-======
-
-Dependancie with `VirtualBox`
-
-Go to the [Genymotion download page](https://cloud.genymotion.com/page/launchpad/download/).
-
-{% highlight bash %}
-$ chmod +x <Genymotion installer path>/genymotion-<version>_<arch>.bin
-$ cd <Genymotion installer path>
-$ ./genymotion-<version>_<arch>.bin -d <Genymotion installer path>
-{% endhighlight %}
-
-Run Genymotion using the following command:
-{% highlight bash %}
-$ cd <Genymotion installer path>
-$ ./genymotion
-{% endhighlight %}
-
-
-_______
 
 
 SSH connection
@@ -300,7 +287,7 @@ OSM and MapBox
 
 
 
->PERSO: lieux perso, direction, secret spot, 
+>PERSO: lieux perso, direction, secret spot,
 
 
 [osm-bright-ubuntu-quickstart](https://www.mapbox.com/tilemill/docs/guides/osm-bright-ubuntu-quickstart/)
@@ -343,7 +330,7 @@ $ imposm -U postgres -d osm -m /path/to/osm-bright/imposm-mapping.py \ --read --
 {% endhighlight %}
 
 
-After you have to modify your `/mapbox-osm-bright/configure.py/` 
+After you have to modify your `/mapbox-osm-bright/configure.py/`
 
 {% highlight python %}
 config["name"] = "NameProject"
@@ -363,7 +350,7 @@ Importing some point with lat/long and more datas inside a project:
 
 [https://www.mapbox.com/tilemill/docs/crashcourse/styling/](https://www.mapbox.com/tilemill/docs/crashcourse/styling/)
 
-Importing some bundarys or ShapeFiles `shp` ex:for Texas 
+Importing some bundarys or ShapeFiles `shp` ex:for Texas
 
 [http://txsdc.utsa.edu/Data/Tiger/2009/CountyShapeFiles.aspx](http://txsdc.utsa.edu/Data/Tiger/2009/CountyShapeFiles.aspx))
 
@@ -375,7 +362,3 @@ Importing some bundarys or ShapeFiles `shp` ex:for Texas
 
 
 _____
-
-
-
-
