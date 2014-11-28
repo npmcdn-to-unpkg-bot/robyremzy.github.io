@@ -25,9 +25,9 @@ SUMMARY
 
 
 # Bash_aliases Exemple #
-The file `bash_a&liases` have to be store inside your `/home/user/.bash_aliases`
+The file `bash_aliases` have to be store inside your `/home/user/.bash_aliases`
 <br>
-To understand more about Bash and alias i suggest you to check this page[Bash Aliases ex on Wikipedia](https://en.wikipedia.org/wiki/Alias_%28command%29)
+To understand more about Bash and alias, i suggest you to check this page [Bash Aliases ex on Wikipedia](https://en.wikipedia.org/wiki/Alias_%28command%29)
 
 {% highlight bash %}
 #!/bin/bash
