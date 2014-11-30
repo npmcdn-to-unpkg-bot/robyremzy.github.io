@@ -29,11 +29,17 @@ While i'm thinking about traveling... long time ago (befor the apocalypse) you w
 Ow and what about time zone stuff in a classy way with [http://everytimezone.com](http://everytimezone.com)
 <br>
 <br>
-__If you are a hardcore backpacker you want to know that__<br>
+-If you are a hardcore backpacker you want to know that-<br>
 **How do i get my bag come out first?**<br>
 Show up mostly late, but not at the last second, your bag will be stacked on top of the cart. Its probably 70-80% effective. Just don't be so late that yours is one of the last bags loaded.<br>
-Baggage handler do two pickups, one to get the majority of the bags 1H before departure (D-60), one to get any we missed 30min before departure (D-30).
+Baggage handler do two pickups, one to get the majority of the bags 1H before departure (D-60), one to get any missed 30min before departure (D-30).
 [http://redd.it/2ndpsk](http://redd.it/2ndpsk)<br>
+<br>
+<br>
+One time, on a domestic flight i was very late but just in time to be loaded (~20 passengers). In a hurry the cute stewardess guide me inside the plane.<br>
+Be myself, stand-up in front of two raw of impatient people in the air plain, staring at me or busy on their iStuff<br>
+one guy: Ah finaly!... and then the unexpected: everybody applaused!...<br>
+I did blush! and say something that i don't remember, odds 50%stupide or funny.<br>
 <br>
 <br>
 You are ready to back pack and fasten your seatbelt now.
