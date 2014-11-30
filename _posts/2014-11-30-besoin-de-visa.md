@@ -16,7 +16,10 @@ But to give you some pictures, Vietnam are likely to put you in custody in a 4 s
 <br>
 To secure yourself from funny situations with some funny people you better check this website first, and if you need a VISA or a waiver application be sure to do it directly with the official authorities (most of the time cheaper, and done in the right way). Be sure to read carefully all the conditions of your VISA or waiver app, most definitely if you stay very close to 90 days or if you have to come back many time per year. You want to be safe form funny people if you don't respect some aspect of your situation. Just check it twice with the emigration website of the country you want to travel.
 <br>
-[Imgur](http://i.imgur.com/2HdPJxl.png?1)
+<figure class="full">
+    <a href="http://www.visamapper.com/"><img src="http://i.imgur.com/2HdPJxl.png"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
 <br>
 [http://www.visamapper.com/](http://www.visamapper.com/)
 <br>
