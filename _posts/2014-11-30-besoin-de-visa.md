@@ -3,8 +3,9 @@ layout: post
 title: "do you need a visa to go there"
 modified:
 categories:
-excerpt:"the easiest way to check your need for a VISA for this country"
-tags: []
+excerpt: "the easiest way to check your need for a VISA for this country"
+tags: [travel, map]
+comments: true
 image:
   feature:
 date: 2014-11-30T21:42:13+01:00
