@@ -18,7 +18,6 @@ To secure yourself from funny situations with some funny people you better check
 <br>
 <figure class="full">
     <a href="http://www.visamapper.com/"><img src="http://i.imgur.com/2HdPJxl.png"></a>
-    <figcaption>Caption describing these two images.</figcaption>
 </figure>
 <br>
 [http://www.visamapper.com/](http://www.visamapper.com/)
