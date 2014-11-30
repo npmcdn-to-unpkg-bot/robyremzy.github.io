@@ -22,7 +22,7 @@ To secure yourself from funny situations with some funny people you better check
 [http://www.visamapper.com/](http://www.visamapper.com/)
 <br>
 <br>
-While i'm thinking about traveling... long time ago (befor the apocalypse) you were able to smoke at +13,500 feet (everything higher must have pressurized cabins to keep the pilots and passengers safe and comfortable. The pressure and oxygen levels inside the cabin are set to correspond with those experienced at up to 7,000 feet, cargo or commercial flight usually assigns a cruising altitude of up to 39,000 feet), or you were able to bring your 1.5L bottle of Mountain Dew (stuffed or not) and sleep well after that, well maybe not because at that time computer assistance during the flight was not so sharp, so it was sometime a bit funky depends on the skill of the pilot (stuffed or not) as well as the landing. Nowaday we barely feel something during the flight or the landing.
+While i'm thinking about traveling... long time ago (befor the apocalypse) you were able to smoke at +13,500 feet (everything higher must have pressurized cabins to keep the pilots and passengers safe and comfortable. The pressure and oxygen levels inside the cabin are set to correspond with those experienced at up to 7,000 feet, cargo or commercial flight are usually assigns a cruising altitude of up to 39,000 feet), or you were able to bring your 1.5L bottle of Mountain Dew (stuffed or not) and sleep well after that, well maybe not because at that time computer assistance during the flight was not so sharp, so it was sometime a bit funky depends on the skill of the pilot (stuffed or not) as well as the landing. Nowaday we barely feel something during the flight or the landing.
 <br>
 <br>
 Ow and what about time zone stuff in a classy way with [http://everytimezone.com](http://everytimezone.com)
@@ -39,5 +39,6 @@ Be myself, stand-up in front of two raw of impatient people in the air plain, st
 one guy: Ah finaly!... and then the unexpected: everybody applaused!...<br>
 I did blush! and say something that i don't remember, odds 50%stupide or funny.<br>
 <br>
+/I did learn from MythBuster that a commercial flight is fully loaded of their passengers in less than 15min./
 <br>
 You are ready to back pack and fasten your seatbelt now.
