@@ -20,9 +20,8 @@ To secure yourself from funny situations with some funny people you better check
     <a href="http://www.visamapper.com/"><img src="http://i.imgur.com/2HdPJxl.png"></a>
 </figure>
 [http://www.visamapper.com/](http://www.visamapper.com/)
-<br>
-# #
-While i'm thinking about traveling... long time ago (befor the apocalypse) you were able to smoke at +13,500 feet (everything higher must have pressurized cabins to keep the pilots and passengers safe and comfortable. The pressure and oxygen levels inside the cabin are set to correspond with those experienced at up to 7,000 feet, cargo or commercial flight are usually assigns a cruising altitude of up to 39,000 feet), or you were able to bring your 1.5L bottle of Mountain Dew (stuffed or not) and sleep well after that, well maybe not because at that time computer assistance during the flight was not so sharp, so it was sometime a bit funky depends on the skill of the pilot (stuffed or not) as well as the landing. Nowaday we barely feel something during the flight or the landing.
+
+#While i'm thinking about traveling...# long time ago (befor the apocalypse) you were able to smoke at +13,500 feet (everything higher must have pressurized cabins to keep the pilots and passengers safe and comfortable. The pressure and oxygen levels inside the cabin are set to correspond with those experienced at up to 7,000 feet, cargo or commercial flight are usually assigns a cruising altitude of up to 39,000 feet), or you were able to bring your 1.5L bottle of Mountain Dew (stuffed or not) and sleep well after that, well maybe not because at that time computer assistance during the flight was not so sharp, so it was sometime a bit funky depends on the skill of the pilot (stuffed or not) as well as the landing. Nowaday we barely feel something during the flight or the landing.
 # #
 Ow and what about time zone stuff in a classy way with [http://everytimezone.com](http://everytimezone.com)
 # #
