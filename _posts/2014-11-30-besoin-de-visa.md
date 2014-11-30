@@ -39,6 +39,5 @@ Be myself, stand-up in front of two raw of impatient people in the air plain, st
 one guy: Ah finaly!... and then the unexpected: everybody applaused!...<br>
 I did blush! and say something that i don't remember, odds 50%stupide or funny.<br>
 <br>
-/I did learn from MythBuster that a commercial flight is fully loaded of their passengers in less than 15min./
-<br>
+*I did learn from MythBuster that a commercial flight is fully loaded of their passengers in less than 15min.*  
 You are ready to back pack and fasten your seatbelt now.
