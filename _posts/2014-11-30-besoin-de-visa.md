@@ -29,7 +29,7 @@ While i'm thinking about traveling... long time ago (befor the apocalypse) you w
 Ow and what about time zone stuff in a classy way with [http://everytimezone.com](http://everytimezone.com)
 <br>
 <br>
-If you are a hardcore backpacker you want to know that,<br>
+__If you are a hardcore backpacker you want to know that__<br>
 **How do i get my bag come out first?**<br>
 Show up mostly late, but not at the last second, your bag will be stacked on top of the cart. Its probably 70-80% effective. Just don't be so late that yours is one of the last bags loaded.<br>
 Baggage handler do two pickups, one to get the majority of the bags 1H before departure (D-60), one to get any we missed 30min before departure (D-30).
