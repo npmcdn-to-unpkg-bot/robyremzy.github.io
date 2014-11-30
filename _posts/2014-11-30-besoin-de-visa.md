@@ -14,7 +14,7 @@ date: 2014-11-30T21:42:13+01:00
 I've got many airports adventures to share but most of them are border line, no joke.
 But to give you some pictures, Vietnam are likely to put you in custody in a 4 stars hotel while you are waiting for your visa to be done, and USA are more likely to put you in a TV show at mid way from "JAIL" to "Orange is the new black" while you are not waiting for your visa but waiting for your next flight on your way back without being deported and enjoy your day without your shoes and your cell phone.
 <br>
-To secure yourself from funny situations with some funny people you better check this website first, and if you need a VISA or a waiver application be sure to do it directly with the official authorities (most of the time cheaper, and done in the right way). Be sure to read carefully all the conditions of your VISA or waiver app, most definitely if you stay very close to 90 days or if you have to come back many time per year. You want to be safe form funny people if you don't respect some aspect of your situation. Just check it twice with the emigration website of the country you want to travel.
+To secure yourself from funny situations with some funny people you better check this website first, and if you need a VISA or a waiver application be sure to do it directly with the official authorities (most of the time cheaper, and done in the right way). Be sure to read carefully all the conditions of your VISA or waiver app, most definitely if you stay very close to 90 days or if you have to come back many times per year. You want to be safe form funny people if you don't respect some aspects of your emigration situation. Just check it twice with the emigration website of the country you want to visit.
 <br>
 <figure class="full">
     <a href="http://www.visamapper.com/"><img src="http://i.imgur.com/2HdPJxl.png"></a>
@@ -27,6 +27,13 @@ While i'm thinking about traveling... long time ago (befor the apocalypse) you w
 <br>
 <br>
 Ow and what about time zone stuff in a classy way with [http://everytimezone.com](http://everytimezone.com)
+<br>
+<br>
+If you are a hardcore backpacker you want to know that,<br>
+_How do i get my bag come out first?_<br>
+Show up mostly late, but not at the last second, your bag will be stacked on top of the cart. Its probably 70-80% effective. Just don't be so late that yours is one of the last bags loaded.<br>
+Baggage handler do two pickups, one to get the majority of the bags 1H before departure (D-60), one to get any we missed 30min before departure (D-30).
+[http://redd.it/2ndpsk](http://redd.it/2ndpsk)<br>
 <br>
 <br>
 You are ready to back pack and fasten your seatbelt now.
