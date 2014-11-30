@@ -19,11 +19,10 @@ To secure yourself from funny situations with some funny people you better check
 <figure class="full">
     <a href="http://www.visamapper.com/"><img src="http://i.imgur.com/2HdPJxl.png"></a>
 </figure>
-<br>
 [http://www.visamapper.com/](http://www.visamapper.com/)
 <br>
 <br>
-While i'm thinking about traveling... long time ago (befor the apocalypse) you were able to smoke at 10,000 feets, or you were able to bring your 1.5L bottle of Mountain Dew (stuffed or not) and sleep well after that, well maybe not because at that time computer assistance during the flight was not so sharp, so it was sometime a bit funky depends on the skill of the pilot (stuffed or not) as well as the landing. Nowaday we barely feel something during the flight or the landing.
+While i'm thinking about traveling... long time ago (befor the apocalypse) you were able to smoke at +30,000 feets, or you were able to bring your 1.5L bottle of Mountain Dew (stuffed or not) and sleep well after that, well maybe not because at that time computer assistance during the flight was not so sharp, so it was sometime a bit funky depends on the skill of the pilot (stuffed or not) as well as the landing. Nowaday we barely feel something during the flight or the landing.
 <br>
 <br>
 Ow and what about time zone stuff in a classy way with [http://everytimezone.com](http://everytimezone.com)
