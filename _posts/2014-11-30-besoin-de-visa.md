@@ -35,7 +35,6 @@ Show up mostly late, but not at the last second, your bag will be stacked on top
 Baggage handler do two pickups, one to get the majority of the bags 1H before departure (D-60), one to get any missed 30min before departure (D-30).
 [http://redd.it/2ndpsk](http://redd.it/2ndpsk)<br>
 <br>
-<br>
 One time, on a domestic flight i was very late but just in time to be loaded (~20 passengers). In a hurry the cute stewardess guide me inside the plane.<br>
 Be myself, stand-up in front of two raw of impatient people in the air plain, staring at me or busy on their iStuff<br>
 one guy: Ah finaly!... and then the unexpected: everybody applaused!...<br>
