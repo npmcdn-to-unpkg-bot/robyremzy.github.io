@@ -31,9 +31,9 @@ Show up mostly late, but not at the last second, your bag will be stacked on top
 Baggage handler do two pickups, one to get the majority of the bags 1H before departure (D-60), one to get any missed 30min before departure (D-30).
 [http://redd.it/2ndpsk](http://redd.it/2ndpsk)  
 **How to find out if your flight has In-Seat power outlets?**  
-It's always a very good idea to book your seat just after your flight purchase and [seatguru.com](http://www.seatguru.com) can help you to know what you can expect from that very seat. Usually In-seat power outlets are the same as a car power adapter. you can scroll seatguru by airline compagny [Here](http://www.seatguru.com/browseairlines/browseairlines.php) and check for your aircraft (carefull betwin domestic and international).  
+It's always a very good idea to book your seat just after your flight purchase and [seatguru.com](http://www.seatguru.com) can help you to know what you can expect from that very seat. Usually In-seat power outlets are the same as a car power adapter. you can scroll seatguru by airline company [Here](http://www.seatguru.com/browseairlines/browseairlines.php) and check for your aircraft (carefull between domestic and international).  
 **what if i took a windows seat?**  
-If you took a windows seat great! But what kind of view you want to enjoy during your flight, the iceberg the lands the sea or avoid the shiny sunshine? check this at [planefinder.net](http://planefinder.net/).
+If you took a windows seat great! But what kind of view you want to enjoy during your flight, the iceberg the lands the sea or avoid the shiny sunshine? check this at [planefinder.net](http://planefinder.net/). (we are able to enjoy for free this kind of map, because aircraft [transponder](https://en.wikipedia.org/wiki/Transponder_%28aeronautics%29) VHF,VFR are encryption free, if it was, it will be a technical challenge to decrypt all communications in time to set all the landings needed).
 
 ###One time, on a domestic flight###
 I was very late but just in time to be loaded (~20 passengers). In a hurry the cute stewardess guide me inside the plane.<br>
