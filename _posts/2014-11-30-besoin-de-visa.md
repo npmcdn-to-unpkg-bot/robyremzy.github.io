@@ -31,7 +31,9 @@ Show up mostly late, but not at the last second, your bag will be stacked on top
 Baggage handler do two pickups, one to get the majority of the bags 1H before departure (D-60), one to get any missed 30min before departure (D-30).
 [http://redd.it/2ndpsk](http://redd.it/2ndpsk)  
 **How to find out if your flight has In-Seat power outlets?**  
-It's always a very good idea to book your seat just after your flight purchase and [http://www.seatguru.com](http://www.seatguru.com) can help you to know what you can expect from that very seat. Usually In-seat power outlets are the same as a car power adapter. you can scroll seatguru by airline compagny [Here](http://www.seatguru.com/browseairlines/browseairlines.php) and check for your aircraft (carefull betwin domestic and international).
+It's always a very good idea to book your seat just after your flight purchase and [seatguru.com](http://www.seatguru.com) can help you to know what you can expect from that very seat. Usually In-seat power outlets are the same as a car power adapter. you can scroll seatguru by airline compagny [Here](http://www.seatguru.com/browseairlines/browseairlines.php) and check for your aircraft (carefull betwin domestic and international).  
+**what if i took a windows seat**  
+If you take a windows seat great! But what view you want to enjoy during the flight, the iceberg the lands the sea or avoid the shiny sunshine? check this at [planefinder.net](http://planefinder.net/).
 
 ###One time, on a domestic flight###
 I was very late but just in time to be loaded (~20 passengers). In a hurry the cute stewardess guide me inside the plane.<br>
