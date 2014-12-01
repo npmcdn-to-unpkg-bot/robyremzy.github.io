@@ -30,7 +30,7 @@ long time ago (befor the apocalypse) you were able to smoke at +13,500 feet (eve
 Show up mostly late, but not at the last second, your bag will be stacked on top of the cart. Its probably 70-80% effective. Just don't be so late that yours is one of the last bags loaded.  
 Baggage handler do two pickups, one to get the majority of the bags 1H before departure (D-60), one to get any missed 30min before departure (D-30).
 [http://redd.it/2ndpsk](http://redd.it/2ndpsk)  
-**How to Find Out If Your Flight Has In-Seat Power Outlets**  
+**How to find out if your flight has In-Seat power outlets?**  
 It's always a very good idea to book your seat just after your flight purchase and [http://www.seatguru.com](http://www.seatguru.com) can help you to know what you can expect from that very seat. Usually In-seat power outlets are the same as a car power adapter. you can scroll seatguru by airline compagny [Here](http://www.seatguru.com/browseairlines/browseairlines.php) and check for your aircraft (carefull betwin domestic and international).
 
 ###One time, on a domestic flight###
