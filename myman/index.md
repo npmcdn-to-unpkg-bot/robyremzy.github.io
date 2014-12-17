@@ -122,35 +122,7 @@ Make you own certificat for Authentification in PDF email and server
 	https://launchpad.net/ubuntu/precise/+package/cryptonit
 
 	PortableSigner-Generic-2.0.38c0573
-
-
-
-
-
-Ubuntu VPN avec Open VPN
-------
-
-[VpnGate](http://www.vpngate.net/en/)
-
-Select an **OpenVPN** '(Windows, Mac,iPhone, Android)' server, download the config file, TCP *(prefer this one)* or UDP. you will get this : `vpngate_xxx.xxx.xx.xx_udp_xxxx.ovpn`
-
-    # geany vpngate_xxx.xxx.xx.xx_udp_xxxx.ovpn
-
-**Cut** the The certificate file of the destination VPN Server in betwin the `<ca></ca>` save it as a `ca.crt` do the same thing for the The client certificate file '(dummy)' inbetwin the `<cert></cert>`
-save it a a `ca-user.crt` and finaly for the BEGIN RSA PRIVATE KEY in betwin the `<key></key>` save it as a `ca-key.crt`
-So now you `vpngate_xxx.xxx.xx.xx_udp_xxxx.ovpn` is smaller with just the needed info and assuming you got already that
-
-    # sudo apt-get install openvpn network-manager-openvpn
-
-Click Network Connections icon -> VPN Connections -> Configure VPN, then Add -> Import a saved VPN connection (in the scroll down menu), then Create,
-now select your downloaded and chopped OpenVPN config file .ovpn as well as the `ca.crt, ca-user.crt` and the `ca-key.crt`
-
-	username: vpn
-	password: vpn
-
-Now save and Close Network Connections.
-To run the newly created anonymous VPN, Click again on Network Connections icon -> VPN Connections -> `vpngate_xxx.xxx.xx.xx_udp_xxxx`
-
+  
 ___
 
 
