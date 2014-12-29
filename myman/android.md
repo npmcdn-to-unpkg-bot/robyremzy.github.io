@@ -30,8 +30,8 @@ introp pour changer de ROM
 ## Install Apps
 
 ***APP NB: Download Priority Order:***
-+   [**F-Droid**](https://f-droid.org/)
-+   [GitHub](https://github.com/) or Home Website
++     [**F-Droid**](https://f-droid.org/)
++     [GitHub](https://github.com/) or Home Website
 +   [XDA package](http://forum.xda-developers.com/)
 +   [googleplaydownloader](https://codingteam.net/project/googleplaydownloader)
 +   GooglePlay Store.  
