@@ -49,13 +49,16 @@ Pour la Syncronisation Contact & calendar depuis mon server.
 [DAVdroid](http://davdroid.bitfire.at/what-is-davdroid)  
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=at.bitfire.davdroid)  
 
+
 Sync [calendar](http://cozy.io/mobile/calendar.html) avec l'app [Cal](http://www.any.do/cal) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.anydo.cal)  
+  
 et [Calendar Widget](https://github.com/plusonelabs/calendar-widget)  
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.plusonelabs.calendar)  
 *need help to change calendar color, and not have all cal in same color*  
 
 
 Sync [contacts](http://cozy.io/mobile/contacts.html) *need help to sync pics and gps*
+
 
 
 
