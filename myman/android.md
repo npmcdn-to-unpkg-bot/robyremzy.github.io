@@ -29,7 +29,7 @@ introp pour changer de ROM
 
 ## Install Apps
 
-***APP NB: Download Priority Order:***
+***APP NB: Download Priority Order:***  
 +     [**F-Droid**](https://f-droid.org/)
 +     [GitHub](https://github.com/) or Home Website
 +   [XDA package](http://forum.xda-developers.com/)
