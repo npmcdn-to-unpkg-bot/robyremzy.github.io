@@ -24,43 +24,55 @@ Here a simple HowTo trying to resume my steps from that switch:
 -     **DOWNLOAD** the [OFFICIAL Up-to-Date PA-GOOGLE APPS](http://forum.xda-developers.com/showthread.php?t=2397942) from Paranoid to use Google Apps
 -     **DOWNLOAD** the last OmniROOM available for [Samsung Galaxy S3](http://dl.omnirom.org/i9300/)
 
-You should now have 1 .img and 3 .zip files ready to be "flash" on your phone let's see how to do that with swag.  
+##### You should now have 1 .img and 3 .zip files ready to be "flash" on your phone let's see how to do that with swag.  
++   You need FIRST to **INSTALL** or "flash" TWRP on GNU/LINUX OS  
++   Activate the USB DEBOGGED by going to Parameters/About Phone/ hit 4 times on Build number at the very bottom, then check USB DEBOGGED into Parameters/{}Dev Options.
++   Reboot your phone on « download » MOD by pushing **Volume down,home, and power** all at same time during a while.  
++   Plug your phone on USB to your computer  
++   Open a Terminal CRTL ALT +T  and copy that:  
 
-
-You need FIRST to **INSTALL** or "flash" TWRP on GNU/LINUX OS  
-Activate the USB DEBOGGED by going to Parameters/About Phone/ hit 4 times on Build number at the very bottom, then check USB DEBOGGED into Parameters/{}Dev Options.
-Reboot your phone on « download » MOD by pushing Volume down,home, and power all at same time during a while.  
-Plug your phone on USB to your computer  
-Open a Terminal CRTL ALT +T  and copy that:  
 
 {% highlight bash %}
 sudo apt-get install heimdall-flash
 sudo heimdall flash --RECOVERY openrecovery-twrp-2.8.3.0-i9300.img --no-reboot
 {% endhighlight %}
 
-Wait for the full blue bar and all verbose to be complete from the Term.  
-Then unplug you USB and reboot on recovery MOD by pushing volume UP, home, and power all at same time during a while or in apps.  
+___________  
 
-**NB:** You just Installed TWRP as a new bootloader, now you should immediately reboot on recovery MOD.  
+*Wait for the full blue bar and all verbose to be complete from the Term.*  
+
+___________  
+
+**NB:** You just Installed TWRP as a new bootloader, now you should immediately reboot on recovery MOD. Unplug you USB and reboot on recovery MOD by pushing volume UP, home, and power all at same time during a while or in apps.  
+
+___________
+
+Your are now on **recovery MOD** by pushing **volume UP, home, and power**  
+
++   From the Menu choose **Wipe** and do a **factory reset**  
++   From the Menu choose now **Install**  
++   Go find the **custom ROM file.zip** and select it, you can select and 2nd zip in queue choose the **SuperSU.zip**  
++   You can even choose a 3rd file to be on queue but i past on the **PA-GOOGLE APPS.zip**, i'm Google less now.  
 
 
-In a SECOND TIME your are on recovery MOD,  
-From the Menu choose **Wipe** and do a **factory reset**  
-From the Menu choose now **Install**  
-Go find the custom ROM file.zip and select it, you can select and 2nd zip in queue choose the SuperSU.zip  
-You can even choose a 3rd file to be on queue but i past on the PA-GOOGLE APPS, i'm Google less now.  
-Hit Install, and wait.  
+*Hit Install, and wait.*  
 
-You did reboot automatically on your fresh new ROM.  
-BUT, I did an extra step after reboot on OmniROM,  
+##### You did reboot automatically on your fresh new ROM.  
+
+**PRO Tips:** I did an extra step after the 1st reboot on OmniROM,  
 I shut down the phone again.  
 Reboot on recovery MOD  
-From the Menu choose **Wipe** and do a all data format (but not the MicroSD Card) and reboot.
-Now it's very clean on OmniROM.  
+From the Menu choose **Wipe** and do a all data format (but not the MicroSD Card) and reboot.  
+Now it's a **very clean on OmniROM**.  
+{: .notice}
 
-## Install Apps
+___________  
 
-***APP NB: Download Priority Order:***  
+*As an option of the ROM, OmniSwitch is something i don't like so much but fun to play with.*
+
+## Install Some Apps
+
+**Download Priority Order:**  
 
 +     [**F-Droid**](https://f-droid.org/)  
 +     [GitHub](https://github.com/) or Home Website  
@@ -68,54 +80,67 @@ Now it's very clean on OmniROM.
 +     [googleplaydownloader](https://codingteam.net/project/googleplaydownloader)  
 +     GooglePlay Store as *evosi*  
 
-You can also download apps from there [apps.evozi.com/apk-downloader](http://apps.evozi.com/apk-downloader/)  
+___________  
 
-**NB: From the Menu security/settings choose Allow Install from Unknown source**  
-You can acces some usefull information on the Menu Parameters/Status, like your phone number, IP or MAC address ect...
+1-You can also download apps from there [apps.evozi.com/apk-downloader](http://apps.evozi.com/apk-downloader/)  
+2-From the Menu security/settings choose Allow Install from Unknown source.  
+3-You can acces some usefull information on the Menu Parameters/Status, such as your phone number, IP or MAC address ect...
+
+___________  
 
 ### CalDAV and CardDAV
-For all this kind of Sync as Contact & calendar it's done from my own server, and i use DAVdroid for that remote access [Hot To Sync From CozyCloud](http://cozy.io/mobile/contacts.html).  
+For all this kind of Sync as Contact & calendar it can be done from your own server, with DAVdroid for that remote access to a [CozyCloud](http://cozy.io/mobile/contacts.html) for exemple.  
 
-[DAVdroid](http://davdroid.bitfire.at/what-is-davdroid)  
+#### [DAVdroid](http://davdroid.bitfire.at/what-is-davdroid)  
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=at.bitfire.davdroid)  
 
-
-For now a descent [Calendar Widget](https://github.com/plusonelabs/calendar-widget)  
+#### [Calendar Widget](https://github.com/plusonelabs/calendar-widget) is a descent widget
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.plusonelabs.calendar)  
-*need help to change calendar color, and not have all cal in same color Sync [contacts](http://cozy.io/mobile/contacts.html) *need help to sync pics and gps and a simple option for Facebook birthday com.anydo.cal*
+
+#### need help to
+*change calendar color, and not have all cal in same color Sync [contacts](http://cozy.io/mobile/contacts.html) *need help to sync pics and gps and a simple option for Facebook birthday com.anydo.cal*
 
 
 
 
 
 ### Texting & SMS  
-[TextSecure](https://github.com/WhisperSystems/TextSecure)  
-*NB: for compatibility with iOS see [here](https://github.com/WhisperSystems/Signal-iOS)*  
+
+####[TextSecure](https://github.com/WhisperSystems/TextSecure)  
+
+###### NB: for compatibility with iOS see [here](https://github.com/WhisperSystems/Signal-iOS)
 
 
 
 
 ### Explorer  
-[Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager)  
+
+#### [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager)  
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.amaze.filemanager)  
 
-[AntTek Explorer Ex]()
+#### [AntTek Explorer Ex]()
 [![XDA](https://pbs.twimg.com/profile_images/514806075132895232/HU2Ar_rW_normal.jpeg)](http://forum.xda-developers.com/showpost.php?p=44678595&postcount=1)  
-[SafeBox]()
+
+#### [SafeBox]()
 [![XDA](https://pbs.twimg.com/profile_images/514806075132895232/HU2Ar_rW_normal.jpeg)](http://forum.xda-developers.com/showpost.php?p=57393874&postcount=1)
 
 
 
 
 ### Edition  
-[Turbo Editor](https://github.com/vmihalachi/turbo-editor/blob/master/README.md)  
+
+#### [Turbo Editor](https://github.com/vmihalachi/turbo-editor/blob/master/README.md)  
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.maskyn.fileeditorpro)  
-[Quoda](http://www.getquoda.com/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.henrythompson.quoda)  
-[WPS Office Kingsoft Offfice](http://www.wps.com/support/) ON [WebSite](http://www.wps.com/android/)  
+
+#### [WPS Office Kingsoft Offfice](http://www.wps.com/support/) ON [WebSite](http://www.wps.com/android/)  
+
+#### [Quoda](http://www.getquoda.com/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.henrythompson.quoda)  
+
 
 
 ### Key Ring  
-[KeePassDroid](http://www.keepassdroid.com/)  
+
+#### [KeePassDroid](http://www.keepassdroid.com/)  
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.android.keepass)  
 
 
@@ -124,40 +149,49 @@ For now a descent [Calendar Widget](https://github.com/plusonelabs/calendar-widg
 To be able to use PGP on K-9Mail you need to install [AGP](http://thialfihar.org/)  
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=org.thialfihar.android.apg)  
 
-[K-9 Mail](https://github.com/k9mail/k-9/wiki)  
+#### [K-9 Mail](https://github.com/k9mail/k-9/wiki)  
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)  
-**NB: Rulez for [IMAP/SMTP](http://www.arobase.org/messageries/serveurs.htm) configuartion**  
-**NB2: To install a Google email account, manage your app passwords, please visit**  
-[https://security.google.com/settings/security/apppasswords?rfr=aem](https://security.google.com/settings/security/apppasswords?rfr=aem)  
+
+###### NB: Rulez for [IMAP/SMTP](http://www.arobase.org/messageries/serveurs.htm) configuration  
+
+###### NB: To install a Google email account, manage your app passwords, please visit [https://security.google.com/settings/security/apppasswords?rfr=aem](https://security.google.com/settings/security/apppasswords?rfr=aem)  
 
 
 
 
 [Tutanota](https://github.com/tutao/tutanota) on [Google](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
 
-____  
+___________
+
 **Steel Testing Skype Alternatives**  
-____  
+
+___________  
+
 **XMPP / Jabber**  
 Get a new JID by following that [tuto](https://duck.co/blog/using-pidgin-with-xmpp-jabber)  
 [XMPP-Conversation](https://f-droid.org/repository/browse/?fdid=eu.siacs.conversations)  
 [XMPP-Xabber](https://f-droid.org/repository/browse/?fdid=com.xabber.androiddev)  
 Ces clients peuvent necessiter l'installation de [Orbot](https://f-droid.org/repository/browse/?fdid=org.torproject.android) et [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)  
-____  
+
+___________  
+
 **ToX**  
-Tox Client Android [Antox](https://wiki.tox.im/Binaries#Android_.28Warning:_Deprecated.29)
-____  
+Tox Client Android [Antox](https://wiki.tox.im/Binaries#Android_.28Warning:_Deprecated.29)  
+
+___________  
+
 **WebRTC Conferencing**  
 [MegaChat](http://kim.com/)  
 [Firefox Hello](https://support.mozilla.org/en-US/products/firefox/firefox-hello-webrtc)  
-___  
+
+___________
 
 ## Browser
-### web
-[Firefox](https://www.mozilla.org/en-US/firefox/new/?icn=tabz)  
+
+#### [Firefox](https://www.mozilla.org/en-US/firefox/new/?icn=tabz)  
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=org.mozilla.firefox)
 
-[DuckDuckGo](https://duck.co/)  
+#### [DuckDuckGo](https://duck.co/)  
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=se.johanhil.duckduckgo)
 
 ### Lecteur RSS
@@ -190,7 +224,17 @@ ___
 [Crunchyroll - Anime and Drama](http://www.crunchyroll.com/devices#android) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)  
 
 
+## Maps
 
+#### [Osmand](http://osmand.net/) ON [WebSite](http://download.osmand.net/releases/)  
+[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=net.osmand.plus)  
+
+### [MapBox](https://www.mapbox.com/)  
+[Test](https://www.mapbox.com/blog/mapbox-android/)  
+[Google](https://play.google.com/store/apps/details?id=com.mapbox.mapboxandroiddemo)  
+[Blog](https://www.mapbox.com/blog/)  
+
+#### [OpenTripPlanner](http://www.opentripplanner.org/) ON [GooglePlay](https://play.google.com/store/apps/details?id=edu.usf.cutr.opentripplanner.android)
 
 
 
@@ -213,7 +257,7 @@ CozyCloud
 [Duolingo](https://www.duolingo.com/mobile) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.duolingo)  
 
 ### Social media
-[Diaspora Webclient](https://github.com/voidcode/Diaspora-Webclient)
+[Diaspora Webclient](https://github.com/voidcode/Diaspora-Webclient)  
 [![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.voidcode.diasporawebclient)  
 [Viber](http://www.viber.com/#android) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.androidbook.ToltecEnergyPrices)  
 [SnapChat](https://www.snapchat.com/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.snapchat.android)  
