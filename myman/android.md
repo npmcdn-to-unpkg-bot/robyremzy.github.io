@@ -181,6 +181,8 @@ ___
 [SnapTube](http://www.snaptubevideo.com/)
 [![XDA](https://pbs.twimg.com/profile_images/514806075132895232/HU2Ar_rW_normal.jpeg)](http://forum.xda-developers.com/showpost.php?p=57592125&postcount=1)  
 
+[PopcornTime](http://popcorntime.io/) ON [WebSite](http://popcorntime.io/)  
+
 [SoundCloud](https://soundcloud.com/mobile) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.soundcloud.android)  
 [Shazam](http://www.shazam.com/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.shazam.android)  
 [Groovshark](http://grooveshark.com) ON [WebSite](http://mobile.grooveshark.com/phones)  
