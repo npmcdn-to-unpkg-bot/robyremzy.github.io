@@ -21,7 +21,7 @@ Here a simple HowTo trying to resume my steps from that switch:
 
 -     **DOWNLOAD** TWRP for [Samsung Galaxy S3](http://teamw.in/project/twrp2/) (International i9300) [i9300]
 -     **DOWNLOAD** SuperSU CWM / TWRP / MobileODIN [installable ZIP](http://download.chainfire.eu/supersu) from ChainFire
--     **DOWNLOAD** the [OFFICIAL Up-to-Date PA-GOOGLE APPS](http://forum.xda-developers.com/showthread.php?t=2397942) from Paranoid if you want to use Google Apps
+-     **DOWNLOAD** the [OFFICIAL Up-to-Date PA-GOOGLE APPS](http://forum.xda-developers.com/showthread.php?t=2397942) from Paranoid to use Google Apps
 -     **DOWNLOAD** the last OmniROOM available for [Samsung Galaxy S3](http://dl.omnirom.org/i9300/)
 
 You should now have 1 .img and 3 .zip files ready to be "flash" on your phone let's see how to do that with swag.  
