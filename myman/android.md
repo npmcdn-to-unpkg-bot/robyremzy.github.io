@@ -135,22 +135,22 @@ To be able to use PGP on K-9Mail you need to install [AGP](http://thialfihar.org
 
 [Tutanota](https://github.com/tutao/tutanota) on [Google](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
 
-____
+____  
 **Steel Testing Skype Alternatives**  
-____
+____  
 **XMPP / Jabber**  
 Get a new JID by following that [tuto](https://duck.co/blog/using-pidgin-with-xmpp-jabber)  
 [XMPP-Conversation](https://f-droid.org/repository/browse/?fdid=eu.siacs.conversations)  
 [XMPP-Xabber](https://f-droid.org/repository/browse/?fdid=com.xabber.androiddev)  
 Ces clients peuvent necessiter l'installation de [Orbot](https://f-droid.org/repository/browse/?fdid=org.torproject.android) et [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)  
-____
+____  
 **ToX**  
 Tox Client Android [Antox](https://wiki.tox.im/Binaries#Android_.28Warning:_Deprecated.29)
-____
+____  
 **WebRTC Conferencing**  
 [MegaChat](http://kim.com/)  
 [Firefox Hello](https://support.mozilla.org/en-US/products/firefox/firefox-hello-webrtc)  
-___
+___  
 
 ## Browser
 ### web
