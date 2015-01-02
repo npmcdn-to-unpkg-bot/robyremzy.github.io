@@ -25,9 +25,13 @@ Here a simple HowTo trying to resume my steps from that switch:
 -     **DOWNLOAD** the last OmniROOM available for [Samsung Galaxy S3](http://dl.omnirom.org/i9300/)
 
 ##### You should now have 1 .img and 3 .zip files ready to be "flash" on your phone let's see how to do that with swag.  
-+   You need FIRST to **INSTALL** or "flash" TWRP on GNU/LINUX OS  
+Pre Step
+
 +   Activate the **USB Debugging** go to Settings/System - About Phone/ hit 4 times on Build number at the very bottom, and then check USB Debugging into Settings/System - {}Dev Options.
-+   Reboot your phone on « download » MOD by pushing **Volume down,home, and power** all at same time during a while.  
+
+**INSTALL** or "flash" TWRP **with** GNU/LINUX OS
+
++   Reboot your phone on **download MOD** by pushing **Volume down,home, and power** all at same time during a while.  
 +   Plug your phone on USB to your computer  
 +   Open a Terminal CRTL ALT +T  and copy that:  
 
@@ -43,7 +47,7 @@ ___________
 
 ___________  
 
-**NB:** You just Installed TWRP as a new bootloader, now you should immediately reboot on recovery MOD. Unplug you USB and reboot on recovery MOD by pushing volume UP, home, and power all at same time during a while or in apps.  
+**NB:** You just Installed TWRP as a new bootloader, now you should immediately reboot on **recovery MOD**. Unplug you USB and reboot on recovery MOD by pushing **volume UP, home, and power** all at same time during a while or in apps.  
 
 ___________
 
