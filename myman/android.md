@@ -26,7 +26,7 @@ Here a simple HowTo trying to resume my steps from that switch:
 
 ##### You should now have 1 .img and 3 .zip files ready to be "flash" on your phone let's see how to do that with swag.  
 +   You need FIRST to **INSTALL** or "flash" TWRP on GNU/LINUX OS  
-+   Activate the USB DEBOGGED by going to Parameters/About Phone/ hit 4 times on Build number at the very bottom, then check USB DEBOGGED into Parameters/{}Dev Options.
++   Activate the **USB Debugging** go to Settings/System - About Phone/ hit 4 times on Build number at the very bottom, and then check USB Debugging into Settings/System - {}Dev Options.
 +   Reboot your phone on « download » MOD by pushing **Volume down,home, and power** all at same time during a while.  
 +   Plug your phone on USB to your computer  
 +   Open a Terminal CRTL ALT +T  and copy that:  
@@ -66,215 +66,48 @@ From the Menu choose **Wipe** and do a all data format (but not the MicroSD Card
 Now it's a **very clean on OmniROM**.  
 {: .notice}
 
-___________  
-
-*As an option of the ROM, OmniSwitch is something i don't like so much but fun to play with.*
-
-## Install Some Apps
-
-**Download Priority Order:**  
-
-+     [**F-Droid**](https://f-droid.org/)  
-+     [GitHub](https://github.com/) or Home Website  
-+     [XDA package](http://forum.xda-developers.com/)  
-+     [googleplaydownloader](https://codingteam.net/project/googleplaydownloader)  
-+     GooglePlay Store as *evosi*  
+**Hipster Tips:** the easter egg of the Android version is at  
+**Settings/About Device/**  
+click several times on **Android Version**  
+repeat the several click on the picture too!  
+{: .notice}
 
 ___________  
 
-1-You can also download apps from there [apps.evozi.com/apk-downloader](http://apps.evozi.com/apk-downloader/)  
-2-From the Menu security/settings choose Allow Install from Unknown source.  
-3-You can acces some usefull information on the Menu Parameters/Status, such as your phone number, IP or MAC address ect...
+## OmniROM Impressions
 
-___________  
+[![OmniROM](https://plus.google.com/u/0/communities/102450203113748251717/photos/all?pid=6095945841026126626&oid=114609650600347375742)](https://plus.google.com/u/0/communities/102450203113748251717)
 
-### CalDAV and CardDAV
-For all this kind of Sync as Contact & calendar it can be done from your own server, with DAVdroid for that remote access to a [CozyCloud](http://cozy.io/mobile/contacts.html) for exemple.  
-
-#### [DAVdroid](http://davdroid.bitfire.at/what-is-davdroid)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=at.bitfire.davdroid)  
-
-#### [Calendar Widget](https://github.com/plusonelabs/calendar-widget) is a descent widget
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.plusonelabs.calendar)  
-
-#### need help to
-*change calendar color, and not have all cal in same color Sync [contacts](http://cozy.io/mobile/contacts.html) *need help to sync pics and gps and a simple option for Facebook birthday com.anydo.cal*
+[![OmniROM](https://lh6.googleusercontent.com/-ilK6H13T-nk/Uloylxz5dfI/AAAAAAAADv0/ePgCEcdzkgg/w417-h695-no/Screenshot_2013-10-13-00-40-02.png)(http://forum.xda-developers.com/omni)
 
 
 
-
-
-### Texting & SMS  
-
-####[TextSecure](https://github.com/WhisperSystems/TextSecure)  
-
-###### NB: for compatibility with iOS see [here](https://github.com/WhisperSystems/Signal-iOS)
-
-
-
-
-### Explorer  
-
-#### [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.amaze.filemanager)  
-
-#### [AntTek Explorer Ex]()
-[![XDA](https://pbs.twimg.com/profile_images/514806075132895232/HU2Ar_rW_normal.jpeg)](http://forum.xda-developers.com/showpost.php?p=44678595&postcount=1)  
-
-#### [SafeBox]()
-[![XDA](https://pbs.twimg.com/profile_images/514806075132895232/HU2Ar_rW_normal.jpeg)](http://forum.xda-developers.com/showpost.php?p=57393874&postcount=1)
-
-
-
-
-### Edition  
-
-#### [Turbo Editor](https://github.com/vmihalachi/turbo-editor/blob/master/README.md)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.maskyn.fileeditorpro)  
-
-#### [WPS Office Kingsoft Offfice](http://www.wps.com/support/) ON [WebSite](http://www.wps.com/android/)  
-
-#### [Quoda](http://www.getquoda.com/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.henrythompson.quoda)  
-
-
-
-### Key Ring  
-
-#### [KeePassDroid](http://www.keepassdroid.com/)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.android.keepass)  
-
-
-
-### Mail Client
-To be able to use PGP on K-9Mail you need to install [AGP](http://thialfihar.org/)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=org.thialfihar.android.apg)  
-
-#### [K-9 Mail](https://github.com/k9mail/k-9/wiki)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)  
-
-###### NB: Rulez for [IMAP/SMTP](http://www.arobase.org/messageries/serveurs.htm) configuration  
-
-###### NB: To install a Google email account, manage your app passwords, please visit [https://security.google.com/settings/security/apppasswords?rfr=aem](https://security.google.com/settings/security/apppasswords?rfr=aem)  
-
-
-
-
-[Tutanota](https://github.com/tutao/tutanota) on [Google](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
+### User interface alias Launcher
+OmniROM use the Launcher call **Laucher3**, it's good enough but not sick sleek, but actually [HotWords is very cool](http://omnirom.org/features/custom-hotwords-home-screen/), in option there is the fancy [OmniSwitch](http://omnirom.org/features/easily-switch-apps-omniswitch/) witch provide quick access to whatever you want to and also deliver the [multi windows](http://omnirom.org/features/easily-switch-apps-omniswitch/), imo it's challenging but i don't use that so i try it but switch it off after 4 hours. I cannot help it and put **Nova Laucnher** as my default UI, to check, install, Nova Laucher; go to their [WebSite](http://novalauncher.com/), and download it from there directly.  
 
 ___________
 
-**Steel Testing Skype Alternatives**  
+I use several language on my Keyboard and OmniROM use the **Android Keyboard (AOSP)**, witch is fine for me right now, i just have to go down the menu `Settings/Input Languages` I checked Spelling corrections and set it as the system languages. In **Keyboard & Inputs Methods** down in Android Keyboard (AOSP) check the settings, and UNCHECK System Languages and select the languages you want. Then, when you will be prompt to type with your keyboard you can click on the *earth* logo witch will let you select your personal languages inputs methods.
 
-___________  
-
-**XMPP / Jabber**  
-Get a new JID by following that [tuto](https://duck.co/blog/using-pidgin-with-xmpp-jabber)  
-[XMPP-Conversation](https://f-droid.org/repository/browse/?fdid=eu.siacs.conversations)  
-[XMPP-Xabber](https://f-droid.org/repository/browse/?fdid=com.xabber.androiddev)  
-Ces clients peuvent necessiter l'installation de [Orbot](https://f-droid.org/repository/browse/?fdid=org.torproject.android) et [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)  
-
-___________  
-
-**ToX**  
-Tox Client Android [Antox](https://wiki.tox.im/Binaries#Android_.28Warning:_Deprecated.29)  
-
-___________  
-
-**WebRTC Conferencing**  
-[MegaChat](http://kim.com/)  
-[Firefox Hello](https://support.mozilla.org/en-US/products/firefox/firefox-hello-webrtc)  
+**Fonts Tips:** I should check the Fonts, it seems different, i will try to see if i can use  
+[source-sans-pro](https://github.com/adobe-fonts)  
+[Noto Sans](http://www.google.com/fonts/specimen/Noto+Sans)  
+[Droid Sans](http://www.google.com/fonts/specimen/Droid+Sans)
+{: .notice}
 
 ___________
 
-## Browser
+Check for more [Apps Test Here](http://robyremzy.github.io/myman/android2)
 
-#### [Firefox](https://www.mozilla.org/en-US/firefox/new/?icn=tabz)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=org.mozilla.firefox)
+___________
 
-#### [DuckDuckGo](https://duck.co/)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=se.johanhil.duckduckgo)
+**Android** version 4.4.4 **Omni** Version 4.4.4-20150102-Nightly
 
-### Lecteur RSS
-[NewsJet](http://newsjet.mobi/)
-[![XDA](https://pbs.twimg.com/profile_images/514806075132895232/HU2Ar_rW_normal.jpeg)](http://forum.xda-developers.com/showpost.php?p=47764077&postcount=1)  
+#### Quick report
 
-### Reddit
-[**Flow for Reddit--Pre-Beta**](https://www.reddit.com/r/RedditFlow/new/) ON
-[GooglePlay](https://play.google.com/store/apps/details?id=com.deeptrouble.yaarreddit)  
-[reddit sync](https://www.reddit.com/r/redditsync/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)  
-[reddit.iama](https://www.reddit.com/r/redditmobile) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.reddit.iama)  
+The device GS3 i9300:
 
-### Twitter  
-[Falcon Pro](http://getfalcon.pro/) ON WebSite with [help here](http://www.androidpolice.com/2013/07/03/falcon-pro-updates-to-v2-0-4-outside-of-the-play-store-now-supports-a-way-to-blatantly-skirt-twitters-token-limit/)  
-
-## Music Video
-
-[VLC](http://git.videolan.org/?p=vlc-ports/android.git;a=summary)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=org.videolan.vlc)  
-
-[SnapTube](http://www.snaptubevideo.com/)
-[![XDA](https://pbs.twimg.com/profile_images/514806075132895232/HU2Ar_rW_normal.jpeg)](http://forum.xda-developers.com/showpost.php?p=57592125&postcount=1)  
-
-[PopcornTime](http://popcorntime.io/) ON [WebSite](http://popcorntime.io/)  
-
-[SoundCloud](https://soundcloud.com/mobile) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.soundcloud.android)  
-[Shazam](http://www.shazam.com/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.shazam.android)  
-[Groovshark](http://grooveshark.com) ON [WebSite](http://mobile.grooveshark.com/phones)  
-[GSRemote for Grooveshark](http://gsremote.com/) ON [GooglePlay](https://play.google.com/store/apps/details?id=uk.co.awesomedigital.gsremote)  
-[Crunchyroll - Anime and Drama](http://www.crunchyroll.com/devices#android) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)  
-
-
-## Maps
-
-#### [Osmand](http://osmand.net/) ON [WebSite](http://download.osmand.net/releases/)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=net.osmand.plus)  
-
-### [MapBox](https://www.mapbox.com/)  
-[Test](https://www.mapbox.com/blog/mapbox-android/)  
-[Google](https://play.google.com/store/apps/details?id=com.mapbox.mapboxandroiddemo)  
-[Blog](https://www.mapbox.com/blog/)  
-
-#### [OpenTripPlanner](http://www.opentripplanner.org/) ON [GooglePlay](https://play.google.com/store/apps/details?id=edu.usf.cutr.opentripplanner.android)
-
-
-
-### Sync 'n Cloud
-[Syncthing](https://ind.ie/pulse/)  
-see on [GitHub](https://github.com/syncthing/syncthing-android)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)  
-
-GitHub  
-Owncloud  
-CozyCloud  
-[Moon+ Reader](http://www.moondownload.com) ON [WebSite](http://www.moondownload.com/download.html)  
-[Perfect Viewer](https://sites.google.com/site/rookiestudio/) ON [WebSite](https://sites.google.com/site/rookiestudio/xia-zai)  
-
-[CamScanner](https://www.camscanner.com/user/download) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.intsig.camscanner)  
-[TVShow time](http://www.tvshowtime.com/en) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.tozelabs.tvshowtime)  
-[IMDB](http://www.imdb.com/apps/?ref_=nb_app) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.imdb.mobile)  
-[Wish Pocket](http://wishpocket.co.kr/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.skplanet.wishpocket)  
-[QuickPic](http://www.alensw.com/en/) ON [WebSite](http://www.alensw.com/en/#download)  
-[Duolingo](https://www.duolingo.com/mobile) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.duolingo)  
-
-### Social media
-[Diaspora Webclient](https://github.com/voidcode/Diaspora-Webclient)  
-[![F-Droid](https://lh5.googleusercontent.com/-zezQqsBye0c/VCUpPVjcKEI/AAAAAAAAAIQ/HbcG5f1qMIw/w129-h45-no/getitonfdroid.png)](https://f-droid.org/repository/browse/?fdid=com.voidcode.diasporawebclient)  
-[Viber](http://www.viber.com/#android) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.androidbook.ToltecEnergyPrices)  
-[SnapChat](https://www.snapchat.com/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.snapchat.android)  
-[Vine](https://vine.co/) ON [GooglePlay](https://play.google.com/store/apps/details?id=co.vine.android)  
-
-### Camera
-[GoogleCamera](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera)  
-
-
-### Tool
-[RealCal](http://www.quartic-software.co.uk) ON [GooglePlay](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc)  
-[Bright Weather](http://levelupstudio.com/en/brightweather-android) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.levelup.brightweather)  
-[OpenVPN Connect](http://www.vpngate.net/en/howto_openvpn.aspx#android) ON [GooglePlay](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)  
-[Pixlr-o-matic](https://pixlr.com/mobile) ON [GooglePlay](https://play.google.com/store/apps/details?id=pixlr.OMatic)  
-[Pixlr](https://pixlr.com/mobile) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.pixlr.express)  
-[Wifi Analyzer](http://a.farproc.com/wifi-analyzer) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)  
-[Toltec Energy](http://www.oktoltecgroup.com/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.androidbook.ToltecEnergyPrices)  
-[Instructables](http://www.instructables.com/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.adsk.instructables)  
-[Ligue de Football Professionnel](http://www.lfp.fr/) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.netcosports.andlfp)  
-[Urban Dictionary](http://www.urbandictionary.com) ON [GooglePlay](https://play.google.com/store/apps/details?id=com.urbandictionary.android)
++   very Hot very quick!
++   Several crash while messing around with camera or on scroll with multiple Apps?
++   Battery drain quick 6 Hours on hardcore use!
++   TODO a drain battery test.
