@@ -47,11 +47,11 @@ ___________
 
 ___________  
 
-**NB:** You just Installed TWRP as a new bootloader, now you should immediately reboot on **recovery MOD**. Unplug you USB and reboot on recovery MOD by pushing **volume UP, home, and power** all at same time during a while or in apps.  
+**NB:** You just Installed TWRP as a new bootloader, now you should immediately reboot on recovery MOD. Unplug you USB and reboot on **recovery MOD** by pushing **volume UP, home, and power** all at same time during a while or in apps.  
 
 ___________
 
-Your are now on **recovery MOD** by pushing **volume UP, home, and power**  
+Your are now on **recovery MOD**  
 
 +   From the Menu choose **Wipe** and do a **factory reset**  
 +   From the Menu choose now **Install**  
@@ -67,7 +67,7 @@ Your are now on **recovery MOD** by pushing **volume UP, home, and power**
 I shut down the phone again.  
 Reboot on recovery MOD  
 From the Menu choose **Wipe** and do a all data format (but not the MicroSD Card) and reboot.  
-Now it's a **very clean on OmniROM**.  
+Now it's a **very clean OmniROM**.  
 {: .notice}
 
 **Hipster Tips:** the easter egg of the Android version is at  
@@ -80,9 +80,7 @@ ___________
 
 ## OmniROM Impressions
 
-[![OmniROM](https://plus.google.com/u/0/communities/102450203113748251717/photos/all?pid=6095945841026126626&oid=114609650600347375742)](https://plus.google.com/u/0/communities/102450203113748251717)
-
-[![OmniROM](https://lh6.googleusercontent.com/-ilK6H13T-nk/Uloylxz5dfI/AAAAAAAADv0/ePgCEcdzkgg/w417-h695-no/Screenshot_2013-10-13-00-40-02.png)(http://forum.xda-developers.com/omni)
+[![OmniROM](https://lh6.googleusercontent.com/-ilK6H13T-nk/Uloylxz5dfI/AAAAAAAADv0/ePgCEcdzkgg/w417-h695-no/Screenshot_2013-10-13-00-40-02.png)](http://forum.xda-developers.com/omni)
 
 
 
