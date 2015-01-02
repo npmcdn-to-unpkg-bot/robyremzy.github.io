@@ -187,7 +187,12 @@ _______
 [Google](https://play.google.com/store/apps/details?id=com.mapbox.mapboxandroiddemo)  
 [Blog](https://www.mapbox.com/blog/)  
 
-#### [OpenTripPlanner](http://www.opentripplanner.org/) ON [GooglePlay](https://play.google.com/store/apps/details?id=edu.usf.cutr.opentripplanner.android)
+### [Nutitet](https://www.nutiteq.com/)
+[Offline Maps 3D](https://play.google.com/store/apps/details?id=com.nutiteq.app.nutimap3d)  
+[Subway, Bus Live Info: Moovit](https://play.google.com/store/apps/details?id=com.tranzmate)  
+[DiGIS](https://play.google.com/store/apps/details?id=de.gid.android.digis)  
+[SeatGeek Event Tickets](https://play.google.com/store/apps/details?id=com.seatgeek.android)  
+[OpenTripPlanner](http://www.opentripplanner.org/) ON [GooglePlay](https://play.google.com/store/apps/details?id=edu.usf.cutr.opentripplanner.android)
 
 
 
