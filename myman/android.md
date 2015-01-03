@@ -83,7 +83,7 @@ ___________
 
 ## OmniROM Impressions
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Android_4.4.2.png#mediaviewer/File:Android_4.4.2.png"><img alt="Android 4.4.2.png" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Android_4.4.2.png"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Android_4.4.2.png#mediaviewer/File:Android_4.4.2.png">Android 4.4.2</a>" by Screenshot Zhaofeng Li
+<p><a href="https://commons.wikimedia.org/wiki/File:Android_4.4.2.png#mediaviewer/File:Android_4.4.2.png"><img alt="Android 4.4.2.png" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Android_4.4.2.png" height="480" width="270"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Android_4.4.2.png#mediaviewer/File:Android_4.4.2.png">Android 4.4.2</a>" by Screenshot Zhaofeng Li
 Logos and operating system <a href="//en.wikipedia.org/wiki/Google" class="extiw" title="en:Google">Google Inc.</a> - Galaxy S3 running Android 4.4.2 (OmniROM, AOSP-based). Licensed under <a title="Apache License, Version 2.0" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
 
 
