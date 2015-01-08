@@ -108,7 +108,7 @@ ___________
 
 ### User interface alias Launcher
 OmniROM use the AOSP Launcher call **Laucher3**, good enough and lightweight,but not so slick. I couldn't help it and after a while i did put **Nova Laucnher** as my default UI, to check or install, Nova Laucher; go to their [WebSite](http://novalauncher.com/), and download it from there directly. I found it a li'l more pitchy but i did say good bye to some Ram there.  
-<p><a href="http://imgur.com/56Ay4A2"><img src="http://i.imgur.com/56Ay4A2.png" title="source: imgur.com" /></a></p>
+<p><a href="http://imgur.com/56Ay4A2"><img src="http://i.imgur.com/56Ay4A2.png" height="350" width="57"></a></p>
 
 ### Omni Features
 As Google Now, OmniROM is about to take it one step further with the Custom launcher [hotwords](http://omnirom.org/features/custom-hotwords-home-screen/), soon on [OmniROm nightlies](http://omnirom.org/downloads/), i keep an eye on it.  
@@ -128,7 +128,7 @@ The open source Omni Installer work well, i use F-droid tho, but when i have to 
 ___________
 
 The Non-intrusive call notification, is very awesome, and i fell like i don't have to download a third party app to switch my dialer app. In general the Stock SMS app is very good, with a lot of settings as well as the Stock Dialer app, i rather not use a a third party dialer, contact or SMS app, and for now i'm actually happy with Omni Stock app.  
-<p><a href="http://imgur.com/pfiSpKC"><img src="http://i.imgur.com/pfiSpKC.png" title="source: imgur.com" /></a></p>
+<p><a href="http://imgur.com/pfiSpKC"><img src="http://i.imgur.com/pfiSpKC.png" height="350" width="116"></a></p>
 
 ___________
 
@@ -158,6 +158,8 @@ The device GS3 i9300:
 +   Several crash while messing around with camera or on scroll with multiple Apps?
 +   Battery drain quick 6 Hours on hardcore use!
 +   TODO a drain battery test.
+
+<p><a href="http://imgur.com/9RDnhM9"><img src="http://i.imgur.com/9RDnhM9.png" height="350" width="127"></a></p>
 
 **Android** version 4.4.4 **Omni** Version 4.4.4-20150103-Nightly  
 
