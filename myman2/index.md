@@ -100,9 +100,8 @@ ___________
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Android_4.4.2.png#mediaviewer/File:Android_4.4.2.png"><img alt="Android 4.4.2.png" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Android_4.4.2.png" height="480" width="270"></a>
 
-<a href="http://imgur.com/nGUJjsl"><img src="http://i.imgur.com/nGUJjsl.jpg" height="480" width="270"></a> 
+<a href="http://imgur.com/nGUJjsl"><img src="http://i.imgur.com/nGUJjsl.jpg" height="480" width="270"></a>
 
-<a href="http://imgur.com/0iFG36j"><img src="http://i.imgur.com/0iFG36j.png" height="480" width="270"></a>
 </p>
 
 
