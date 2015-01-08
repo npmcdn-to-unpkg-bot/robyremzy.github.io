@@ -98,13 +98,17 @@ ___________
 
 ## OmniROM Impressions
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Android_4.4.2.png#mediaviewer/File:Android_4.4.2.png"><img alt="Android 4.4.2.png" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Android_4.4.2.png" height="480" width="270"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Android_4.4.2.png#mediaviewer/File:Android_4.4.2.png">Android 4.4.2</a>" by Screenshot Zhaofeng Li
-Logos and operating system <a href="//en.wikipedia.org/wiki/Google" class="extiw" title="en:Google">Google Inc.</a> - Galaxy S3 running Android 4.4.2 (OmniROM, AOSP-based). Licensed under <a title="Apache License, Version 2.0" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Android_4.4.2.png#mediaviewer/File:Android_4.4.2.png"><img alt="Android 4.4.2.png" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Android_4.4.2.png" height="480" width="270"></a>
+
+<a href="http://imgur.com/nGUJjsl"><img src="http://i.imgur.com/nGUJjsl.jpg" height="480" width="270"></a> 
+
+<a href="http://imgur.com/0iFG36j"><img src="http://i.imgur.com/0iFG36j.png" height="480" width="270"></a>
+</p>
 
 
 
 ### User interface alias Launcher
-OmniROM use the AOSP Launcher call **Laucher3**, good enough and lightweight,but not sick sleek. I couldn't help it and after a while i did put **Nova Laucnher** as my default UI, to check or install, Nova Laucher; go to their [WebSite](http://novalauncher.com/), and download it from there directly. I found it a li'l more pitchy but i did say good bye to some Ram there.
+OmniROM use the AOSP Launcher call **Laucher3**, good enough and lightweight,but not so slick. I couldn't help it and after a while i did put **Nova Laucnher** as my default UI, to check or install, Nova Laucher; go to their [WebSite](http://novalauncher.com/), and download it from there directly. I found it a li'l more pitchy but i did say good bye to some Ram there.
 
 ### Omni Features
 As Google Now, OmniROM is about to take it one step further with the Custom launcher [hotwords](http://omnirom.org/features/custom-hotwords-home-screen/), soon on [OmniROm nightlies](http://omnirom.org/downloads/), i keep an eye on it.  
