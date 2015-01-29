@@ -160,7 +160,8 @@ The device GS3 i9300:
 +   TODO a drain battery test.
 
 <p><a href="http://imgur.com/9RDnhM9"><img src="http://i.imgur.com/9RDnhM9.png" height="127" width="350"></a></p>
-
+<br>
+<br>
 **Android** version 4.4.4 **Omni** Version 4.4.4-20150103-Nightly  
 
 The device GS3 i9300:  
