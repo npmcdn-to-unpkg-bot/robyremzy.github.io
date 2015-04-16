@@ -12,10 +12,8 @@ image:
 
 Note: Ce qui suit n’a rien d'officiel voire de probant. On se demande comment cette biographie succincte a put se retrouver sur cette page.
 {: .notice}
-<br>
-<br>
-<br>
-Pour certain connue sous le nom de Rems, personnage atypique fin XXe début XXIe siècle. Véritable touche à tous dés sont plus jeune âge, aimant le sport en général ainsi que les sciences. Geek assumé, il aime partager la connaissance « mais rien ne vaut une bonne rigolade entre amis autour d'un bon repas » dit il souvent.  
+
+##### P#####our certain connue sous le nom de Rems, personnage atypique fin XXe début XXIe siècle. Véritable touche à tous dés sont plus jeune âge, aimant le sport en général ainsi que les sciences. Geek assumé, il aime partager la connaissance « mais rien ne vaut une bonne rigolade entre amis autour d'un bon repas » dit il souvent.  
 <br>
 <br>
 
