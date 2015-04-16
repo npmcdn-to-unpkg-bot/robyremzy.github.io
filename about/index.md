@@ -10,30 +10,17 @@ image:
   creditlink:
 ---
 
-Note: Ce qui suit n'a rien d'Officiel ou Public. On se demande comment cette biographie succincte a put se retrouver sur cette page.
+Note: Ce qui suit n’a rien d'officiel voire de probant. On se demande comment cette biographie succincte a put se retrouver sur cette page.
 {: .notice}
 
 ##RobyRemzy##
 
-Pour certain connue sous le nom de Rems, personnage atypique fin XXe début XXIe siècle.
-Véritable touche à tous dés sont plus jeune âge, aimant le sport en général et les sciences.
-Geek assumé, il aime partager la connaissance et pratiqua des expériences parfois douteuses, dans le but de rigoler avec ses amis.
+Pour certain connue sous le nom de Rems, personnage atypique fin XXe début XXIe siècle. Véritable touche à tous dés sont plus jeune âge, aimant le sport en général ainsi que les sciences. Geek assumé, il aime partager la connaissance « mais rien ne vaut une bonne rigolade entre amis autour d'un bon repas » dit il souvent.
 
 
-Son manque d'assiduité et parfois sa dissidence dans sa scolarité, lui ont procuré des émotions inattendue. Timide et incompris dans ces moments sombres, mais aussi extravagant rigoureux;
-il s'affirma plus tard comme terrien éclairé guidé par la force.
-En musique il était sollicité pour de la création parfois trop avant-gardiste pour pouvoir passer comme membre indispensable, mais fut grandement récompensé par [des rencontres](https://www.youtube.com/watch?v=7LeUvytB0uY) au-delà [de tout soupçon](https://www.reddit.com/r/AskReddit/comments/2mvco9/who_is_the_most_famous_person_youve_ever_met_and/cm8m5t7).
-Son rôle de WebMaster n'est que prétexte. En [Photo](https://www.flickr.com/photos/remsenlive/), il fut connue pour avoir fait des parutions qu'il n'aura jamais vu!
-Cependant, des doutes surviennent quant à l'obtention de ces diplômes, en sciences, la biomécanique, est sensé être ca principale activité.
-Il dispose d'une notoriété relativement grande quand à son orthographe erratique et déroutante, cependant il est très philosophe.
+Assidu mais pas que,  sa scolarité lui on procuré des émotions inattendues. Il s’affirma plus tard comme personnage dit de « tranquille » et plutôt fédérateur. En musique il fut sollicité pour de la création, mais sont esprit avant-gardiste et sont talent très discutable, ne lui on malheureusement pas permis de savourer pleinement cette expérience. Cependant, il fut grandement récompensé par [des rencontres](https://www.youtube.com/watch?v=7LeUvytB0uY) au-delà [de tout soupçon](https://www.reddit.com/r/AskReddit/comments/2mvco9/who_is_the_most_famous_person_youve_ever_met_and/cm8m5t7). En [Photo](https://www.flickr.com/photos/remsenlive/), il fut néanmoins reconnu… par un fanzine scientifique, qu’il n’aura jamais vu! En sciences, Il sera connu pour sont Majeur en Bio Chimie et Mineur en Neuro Biomécanique, il dispose aussi d’une notoriété relativement grande pour son orthographe erratique et déroutante, cependant il est très philosophe. Par la suite, devenue Entrepreneur, il aime regarder vers l'horizon !
 
-Par la suite devenue Entrepreneur, il réussit, comme il aime à le dire, "faire sont troue!"
-Ayant largement profité du download peu recommandable et du [streaming]({{ site.url }}/myconfntalk/), il maîtrisa l'anglais, ce qui lui permis de s'exporter à l'étranger.
-Certain commence à perdre ça trace et ne savent plus trop se qu'il devient...
-
->Ce Blog peut aider,
->mais...
->Je ne sais pas si ca va durer...
+Il peut s'adonner à de grand moment de silence, et certains peuvent parfois en perdre ça trace, mais jamais bien longtemps (celons une échelle de temps que seul lui pourra juger!)
 
 <a markdown="0" href="{{ site.url }}/posts" class="btn">Articles</a>
 <br>
