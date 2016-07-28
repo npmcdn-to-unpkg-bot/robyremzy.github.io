@@ -4,9 +4,9 @@ date:   2016-01-08 15:04:23
 categories: [jekyll]
 tags: [jekyll]
 ---
-Voilà! J'ai mis en place une landing page avec Jekyll avec un theme très simple `jekyll-uno`. J'ai eut un petit soucis pour générer le site. J'ai utiliser la CLI `bundle exec jekyll serve` plutôt que `jekyll serve --watch`.
+Voilà! J'ai mis en place une landing page avec Jekyll avec un theme très simple `jekyll-uno`. J'ai eut un petit souci pour générer le site. J'ai utilisé la "CLI" `bundle exec jekyll serve` plutôt que `jekyll serve --watch`.
 
-Je devrais poster de manière très éparce frollant le néan.
+Je devrais poster de manière très éparce avoisinant le néan.
 
 But Hey! this is done with:
 
