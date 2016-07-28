@@ -1,0 +1,39 @@
+# Site settings
+title: RobyRemzy
+description: 'My Personal Web Page'
+url: 'http://robyremzy.github.io'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Roubin Rémi'
+  email: robyremzy@omb.org
+  twitter_username: remstw
+#  facebook_username:
+  github_username:  RobyRemzy
+#  linkedin_username:
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
