@@ -1,13 +1,13 @@
 # Site settings
 title: RobyRemzy
-description: 'My Personal Web Page'
+description: 'This is my Jekyll'
 url: 'http://robyremzy.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Roubin Rémi'
+  name: 'RĒMS'
   email: robyremzy@omb.org
   twitter_username: remstw
 #  facebook_username:
