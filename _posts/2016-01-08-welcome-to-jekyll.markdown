@@ -23,19 +23,14 @@ curently hosted on => {{ site.url }}
 
 ### Plugins
 
-simple [twitter](https://github.com/kzykbys/JekyllPlugins/blob/master/tweet.rb) should try also this [one](https://github.com/rob-murray/jekyll-twitter-plugin)
-
-
 enable emoji on [gh-pages](https://help.github.com/articles/emoji-on-github-pages/)
-<center>:octocat: :gem: :leaves: :space_invader:</center>
 
+<p><center>:octocat: :gem: :leaves: :space_invader:</center></p>
 
 
 Display github gists easily [anywhere](https://github.com/jekyll/jekyll-gist)
 
 {% gist RobyRemzy/803d0d4bed379633d760c64f860e1d14 index.html %}
-
-<!-- {% gist 803d0d4bed379633d760c64f860e1d14 %} -->
 
 
 ### About Jekyll

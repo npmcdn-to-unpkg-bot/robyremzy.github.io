@@ -1,7 +1,7 @@
 # Site settings
 title: RobyRemzy
 description: 'This is my Jekyll'
-url: 'http://robyremzy.github.io'
+url: 'https://robyremzy.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
