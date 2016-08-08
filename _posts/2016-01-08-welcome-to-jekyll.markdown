@@ -24,7 +24,7 @@ curently hosted on => {{ site.url }}
 ### Plugins
 
 simple [twitter](https://github.com/kzykbys/JekyllPlugins/blob/master/tweet.rb) should try also this [one](https://github.com/rob-murray/jekyll-twitter-plugin)
-{% tweet 762011911621861376 %}
+
 
 enable emoji on [gh-pages](https://help.github.com/articles/emoji-on-github-pages/)
 <center>:octocat: :gem: :leaves: :space_invader:</center>
