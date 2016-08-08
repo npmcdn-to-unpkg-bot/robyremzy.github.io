@@ -2,7 +2,7 @@
   <i class="icon icon-list btn-mobile-menu__icon"></i>
   <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
 </span>
-  
+
 <header class="panel-cover" style="background-image: url({{ "images/cover.jpg" | prepend: site.baseurl }})">
   <div class="panel-main">
 
@@ -26,33 +26,13 @@
 
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
-          
+
             {% if site.author.twitter_username %}
               <!-- Twitter -->
               <li class="navigation__item">
-                <a href="http://twitter.com/{{ site.author.twitter_username }}" title="@{{ site.author.twitter_username }} on Twitter" target="_blank">
-                  <i class="icon icon-social-twitter"></i>
+                <a href="https://twitter.com/{{ site.author.twitter_username }}" title="@{{ site.author.twitter_username }} on Twitter" target="_blank">
+                  <i class="icon fa fa-twitter"></i>
                   <span class="label">Twitter</span>
-                </a>
-              </li>
-            {% endif %}
-
-            {% if site.author.facebook_username %}
-              <!-- Facebook -->
-              <li class="navigation__item">
-                <a href="http://fb.me/{{ site.author.facebook_username }}" title="{{ site.author.facebook_username }} on Facebook" target="_blank">
-                  <i class="icon icon-social-facebook"></i>
-                  <span class="label">Facebook</span>
-                </a>
-              </li>
-            {% endif %}
-
-            {% if site.author.linkedin_username %}
-              <!-- LinkedIn -->
-              <li class="navigation__item">
-                <a href="https://www.linkedin.com/in/{{ site.author.linkedin_username }}" title="{{ site.author.linkedin_username }} on LinkedIn" target="_blank">
-                  <i class="icon icon-social-linkedin"></i>
-                  <span class="label">LinkedIn</span>
                 </a>
               </li>
             {% endif %}
@@ -61,8 +41,38 @@
               <!-- GitHub -->
               <li class="navigation__item">
                 <a href="https://www.github.com/{{ site.author.github_username }}" title="{{ site.author.github_username }} on GitHub" target="_blank">
-                  <i class="icon icon-social-github"></i>
+                  <i class="icon fa fa-github"></i>
                   <span class="label">GitHub</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.author.gitlab_username %}
+              <!-- Gitlab -->
+              <li class="navigation__item">
+                <a href="https://www.github.com/{{ site.author.gitlab_username }}" title="{{ site.author.gitlab_username }} on Gitlab" target="_blank">
+                  <i class="icon fa fa-gitlab"></i>
+                  <span class="label">Gitlab</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.author.osm_username %}
+              <!-- OpenStreetMap -->
+              <li class="navigation__item">
+                <a href="https://www.openstreetmap.org/user/{{ site.author.osm_username }}" title="{{ site.author.osm_username }} on OpenStreetMap" target="_blank">
+                  <i class="icon fa fa-map-marker"></i>
+                  <span class="label">Open Street Map</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.author.mapillary_username %}
+              <!-- Mapillary -->
+              <li class="navigation__item">
+                <a href="https://www.mapillary.com/app/user/{{ site.author.mapillary_username }}" title="{{ site.author.mapillary_username }} on Mapillary" target="_blank">
+                  <i class="icon fa fa-street-view"></i>
+                  <span class="label">Mapillary</span>
                 </a>
               </li>
             {% endif %}
@@ -71,7 +81,7 @@
               <!-- Email -->
               <li class="navigation__item">
                 <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
-                  <i class="icon icon-mail"></i>
+                  <i class="icon fa fa-envelope"></i>
                   <span class="label">Email</span>
                 </a>
               </li>
@@ -80,11 +90,11 @@
             <!-- RSS -->
             <li class="navigation__item">
               <a href="{{ "feed.xml" | prepend: site.baseurl }}" title="Subscribe" target="_blank">
-                <i class="icon icon-rss"></i>
+                <i class="icon fa fa-rss"></i>
                 <span class="label">RSS</span>
               </a>
             </li>
-          
+
             </ul>
           </nav>
 

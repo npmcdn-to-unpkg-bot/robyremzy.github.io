@@ -15,8 +15,30 @@ def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Jekyll')
-#=> prints 'Hi, Tom' to STDOUT.
+
+config => {{ site.title }} by {{ site.author.name }}
+curently hosted on => {{ site.url }}
+
 ```
+
+### Plugins
+
+simple [twitter](https://github.com/kzykbys/JekyllPlugins/blob/master/tweet.rb) should try also this [one](https://github.com/rob-murray/jekyll-twitter-plugin)
+{% tweet 762011911621861376 %}
+
+enable emoji on [gh-pages](https://help.github.com/articles/emoji-on-github-pages/)
+<center>:octocat: :gem: :leaves: :space_invader:</center>
+
+
+
+Display github gists easily [anywhere](https://github.com/jekyll/jekyll-gist)
+
+{% gist RobyRemzy/803d0d4bed379633d760c64f860e1d14 index.html %}
+
+<!-- {% gist 803d0d4bed379633d760c64f860e1d14 %} -->
+
+
+### About Jekyll
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 

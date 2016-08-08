@@ -1,6 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+.tweet-cache
 *.sublime-project
 *.sublime-workspace
 .DS_Store

@@ -10,9 +10,10 @@ author:
   name: 'RĒMS'
   email: robyremzy@omb.org
   twitter_username: remstw
-#  facebook_username:
   github_username:  RobyRemzy
-#  linkedin_username:
+  gitlab_username:
+  osm_username:
+  mapillary_username:
 
 defaults:
   -
@@ -21,6 +22,9 @@ defaults:
       type: 'posts'
     values:
         layout: 'post'
+
+gist:
+  noscript: false
 
 # Build settings
 destination: _site
@@ -35,5 +39,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate']
+gems: ['jekyll-paginate', 'jemoji', 'jekyll-gist']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
