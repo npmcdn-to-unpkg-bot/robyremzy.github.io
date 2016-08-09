@@ -2,7 +2,7 @@
 title:  "Basic setup with Leaflet and Mapillary"
 date:   2016-07-06 22:04:23
 categories: [jekyll]
-tags: [jekyll]
+tags: [jekyll, map]
 markdown: markdown
 ---
 I was looking for some Jekyll template to see if doing a little front page for a local shop is doable with ease I mean with a shop cart. I like the static landing page because you can customize them in a short amount of time vs those big CMS, and well you can handle pretty much everything if you care. I will maybe go through the shopping cart later on but something strikes me into those templates. They all use **Google map** for some some pretty locations. I’m more likely to use the <a href='http://leafletjs.com/' target='blank'>Leaflet</a> library in that case. Let’s see how!

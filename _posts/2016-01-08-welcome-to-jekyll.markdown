@@ -66,11 +66,17 @@ var xmarker = L.icon({
 	popupAnchor: [0, -51]
 });
 
+{% if page.mlat %}
+var marker = L.marker(
+	[{{ page.mlat }}, {{ page.mlng }}]
+).addTo(map);
+{% endif %}
+
+{% if page.icon %}
 var marker = L.marker([{{ page.mlat }}, {{ page.mlng }}], {
-	{% if page.icon %}
 	icon: {{ page.icon }}
-	{% endif %}
 }).addTo(map);
+{% endif %}
 
 {% if page.mpop %}
 marker.bindPopup("{{ page.mpop }}").openPopup();
