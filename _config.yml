@@ -1,6 +1,7 @@
 # Site settings
 title: RobyRemzy
 description: 'Jekyll, please meet my friends...'
+fyi: Bonjour Welcome on my new Jekyll blog I'd like to use OpenStreetMap, Leaflet, Mapillary and other Mapping/GIS toys I enjoy food, craft beers or IPA. Coding/Hacking to past time or simply chill in HD.
 url: 'https://robyremzy.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'

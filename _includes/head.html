@@ -40,15 +40,35 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@{{ site.author.twitter_username }}">
-  <meta name="twitter:title" content="{{ site.author.name }}: {{ page.title }} on {{ site.description }}">
-  <meta name="twitter:description" content="{{ page.intro }}">
   <meta name="twitter:creator" content="{{ site.author.name }}: {{ site.url }}">
-  <meta name="twitter:image" content="{{ page.sumimg }}">
+  {% if page.title %}
+  <meta name="twitter:title" content="{{ site.author.name }}: {{ page.title }} on {{ site.description }}">
+  {% else %}
+  <meta name="twitter:title" content="{{ site.author.name }} aka {{ site.title }} on {{ site.description }}">
+  {% endif %}
+  {% if page.title %}
+  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+  {% else %}
+  <meta name="twitter:description" content="{{ site.fyi }}">
+  {% endif %}
+  {% if page.img %}
+  <meta name="twitter:image:src" content="{{ page.img }}">
+  {% else %}
+  <meta name="twitter:image:src" content="{{ site.url }}/images/favicons/android-chrome-192x192.png">
+  {% endif %}
 
   <meta property="og:type" content="article">
   <meta property="og:title" content="{{ site.author.name }}: {{ page.title }} on {{ site.description }}">
-  <meta property="og:description" content="{{ page.intro }}">
-  <meta property="og:image" content="{{ page.sumimg }}" />
+  {% if page.title %}
+  <meta property="og:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+  {% else %}
+  <meta property="og:description" content="{{ site.fyi }}">
+  {% endif %}
+  {% if page.img %}
+  <meta property="og:image" content="{{ page.img }}">
+  {% else %}
+  <meta property="og:image" content="{{ site.url }}/images/favicons/android-chrome-192x192.png" />
+  {% endif %}
 
   <link rel="apple-touch-icon" sizes="57x57" href="{{ "images/favicons/apple-touch-icon-57x57.png" | prepend: site.baseurl }}">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ "images/favicons/apple-touch-icon-60x60.png" | prepend: site.baseurl }}">
