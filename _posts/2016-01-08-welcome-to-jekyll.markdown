@@ -13,6 +13,7 @@ mlat: 37.778891
 mlng: -122.3975811
 mpop: Search 'GitHub' on OpenStreetMap!
 intro: Welcome on my new Jekyll blog! I'd like to use OpenStreetMap, Leaflet, Mapillary and other mapping toys and enjoy home maid food with some craft beers as well!
+sumimg: https://robyremzy.github.io/images/favicons/android-chrome-192x192.png
 ---
 Voilà! J'ai mis en place une landing page avec Jekyll avec un theme très simple `jekyll-uno`. J'ai eut un petit souci pour générer le site. J'ai utilisé la "CLI" `bundle exec jekyll serve` plutôt que `jekyll serve --watch`.
 
