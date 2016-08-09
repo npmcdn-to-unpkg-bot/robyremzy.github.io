@@ -40,11 +40,10 @@
 
   <meta name="twitter:card" content="summary">
   <!-- <meta name="twitter:card" content="summary_large_image"> -->
-  <!-- <meta name="twitter:site" content="@{{ site.author.twitter_username }}"> -->
+  <meta name="twitter:site" content="@{{ site.author.twitter_username }}">
   <meta name="twitter:title" content="{{ site.author.name }} @{{ site.author.twitter_username }} {{ page.title }} on {{ site.description }}">
-  <!-- <meta name="twitter:description" content="{{ page.title }}"> -->
-  <meta name="twitter:description" content="{{ post.excerpt | remove: '<p>' | remove: '</p>' }}">
-  <!-- <meta name="twitter:creator" content="{{ site.author.name }}: {{ site.url }}"> -->
+  <meta name="twitter:description" content="{{ page.intro }}">
+  <meta name="twitter:creator" content="{{ site.author.name }}: {{ site.url }}">
   <!-- <meta name="twitter:image" content="{{ "images/favicons/android-chrome-192x192.png" | prepend: site.baseurl }}"> -->
 
   <meta property="og:type" content="article">

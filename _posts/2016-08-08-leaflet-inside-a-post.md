@@ -8,6 +8,7 @@ LtileLayer: https://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png
 lat: 45.84924956447676
 lng: 6.705093383789062
 zoom: 13
+intro: Leaflet is pretty cool and easy to use. I manage a simple way to draw a map inside a Jekyll post. I want to keep it step by step and not too fancy but usefull.
 ---
 Leaflet is pretty cool and easy to use. I manage a simple way to draw a map inside a Jekyll post. I want to keep it step by step and not too fancy but usefull.
 
