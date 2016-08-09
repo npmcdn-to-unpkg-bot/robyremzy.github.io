@@ -17,7 +17,7 @@ Leaflet is pretty cool and easy to use. I manage a simple way to draw a map insi
 To manage a map like the one above is very straight forward.
 First, i want to load the leaflet libs only when a post need it. So let's create a new layout for some post with a leaflet map.
 
-Inside your `_layouts` directory copy the `post.html` and remane it to `mapost.html`. Using the default layout is still ok here, but we need to load the leaflet libs asap. I just drop the `leafet.js` file inside a custom folder `/js` and `leaflet.css` to my `/css` folder. Leaflet come with some default images, you need those and i moved them inside my `/images/carto` folder and tell to leaflet where it is now with `L.Icon.Default.imagePath`.
+Inside your `_layouts` directory copy the `post.html` and remane it to `mapost.html`. Using the default layout is still ok here, but we need to load the leaflet libs asap. I just droped the `leafet.js` file inside a custom folder `/js` and `leaflet.css` to my `/css` folder. Leaflet come with some default images, you absolutly need <a href='https://github.com/Leaflet/Leaflet/tree/master/dist/images' target='blank'>those</a> and i moved them inside my `/images/carto` folder and tell to leaflet where it is now with `L.Icon.Default.imagePath`.
 
 {% raw %}
 ```html
@@ -44,7 +44,7 @@ Now, check the section:
 ```
 {% endraw %}
 
-Ok, we just need to do some happy javascript one time for all. After the we will just have to add some `key:value` into the parmas of our post. So i mod this section like this:
+Ok, we just need to do some happy javascript one time for all. After that we will just have to add some `key:value` into the parmas of our post. So i mod this section like this:
 
 {% raw %}
 ```html
@@ -87,7 +87,7 @@ Ok, we just need to do some happy javascript one time for all. After the we will
 ```
 {% endraw %}
 
-I just created some `key:value` layouts. Here, what can be done with this mapost. inside `/_posts` create a new markdown post with this options:
+I just created some `key:value` layouts. Here, what can be done with that mapost. Inside the `/_posts` directory, create a new markdown post with this options:
 
 {% raw %}
 ```html
@@ -108,11 +108,11 @@ mpop: your marker popup #can be empty
 ---
 your post content...
 
-at some point you need to draw the div map with this:
+at some point you need to draw the map div with this:
 
 <div id="map" style="align:center width: 100%; height: 230px"></div>
 
 ```
 {% endraw %}
 
-Now, there is a restriction we can only have one map div per post. So next time it could be awesome to work on how to master mutliple markers and data representations.
+Now, there is a restriction, we can only have one map div per post. So next time it could be awesome to work on how to master mutliple markers and data representations inside that map div.
