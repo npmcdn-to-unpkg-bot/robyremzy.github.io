@@ -53,9 +53,15 @@ Ok, we just need to do some happy javascript one time for all. After that we wil
   <script>
   var map = L.map('map').setView([{{ page.lat }}, {{ page.lng }}], {{ page.zoom }});
 
+  {% if page.LtileLayer %}
   L.tileLayer('{{page.LtileLayer}}', {
     attribution: '&copy; <a href="https://osmlab.github.io/attribution-mark/copyright/?name={{ site.title }}">OpenStreetMap</a> contributors'
   }).addTo(map);
+  {% else %}
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://osmlab.github.io/attribution-mark/copyright/?name={{ site.title }}">OpenStreetMap</a> contributors'
+  }).addTo(map);
+  {% endif %}
 
   var xmarker = L.icon({
     iconUrl: '{{ "images/carto/marker.svg" | prepend: site.baseurl }}',
@@ -97,7 +103,7 @@ title: #need
 date: #need
 categories: #need
 tags: #need
-LtileLayer: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png #need
+LtileLayer: #can be empty
 lat: your map latitude #need
 lng: your map longitude #need
 zoom: your map zoom #need
