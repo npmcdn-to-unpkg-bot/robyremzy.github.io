@@ -1,0 +1,19 @@
+<div id="mapz" class="wallmap"></div>
+
+<script>
+{% if page.mapzen %}
+var mapz = L.Mapzen.map('mapz',{
+  {% if include.mz_tile %}
+  scene: {{ include.mz_tile }},
+  {% else %}
+  // scene: 'https://raw.githubusercontent.com/tangrams/bubble-wrap/gh-pages/bubble-wrap.yaml',
+  scene: L.Mapzen.BasemapStyles.BubbleWrap,
+  {% endif %}
+});
+{% if page.lat %}
+mapz.setView([{{ page.lat }}, {{ page.lng }}], {{ page.zoom }});
+{% else %}
+mapz.setView([40, -25], 2);
+{% endif %}
+{% endif %}
+</script>

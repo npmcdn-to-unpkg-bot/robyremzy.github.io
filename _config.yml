@@ -1,7 +1,7 @@
 # Site settings
 title: RobyRemzy
 description: 'Jekyll, please meet my friends...'
-fyi: Bonjour Welcome on my new Jekyll blog I'd like to use OpenStreetMap, Leaflet, Mapillary and other Mapping/GIS toys I enjoy food, craft beers or IPA. Coding/Hacking to past time or simply chill in HD.
+fyi: Bonjour Welcome on my Jekyll blog I'd like to use OpenStreetMap, Leaflet, Mapillary and other Mapping/GIS toys I enjoy food, craft beers or IPA. Coding/Hacking to past time or simply chill in HD.
 url: 'https://robyremzy.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -16,6 +16,7 @@ author:
   osm_username:
   mapillary_username:
   mapillary_id: enpzOU5oNGZIQW1NLTI0T2JrdGFmQToxN2NjMDk4OWM4ZmEyNTMy
+  mapbox_token: pk.eyJ1Ijoicm9ieXJlbXp5IiwiYSI6ImNpczk5bzI4eTAwNW8yenM0N2J6emwzZnAifQ.rita6hQg6eU9IuslZz2kag
 
 defaults:
   -

@@ -1,0 +1,27 @@
+<div id="mapbx" class="leafmap"></div>
+
+<script>
+{% if page.mapbox %}
+mapboxgl.accessToken = '{{ site.author.mapbox_token }}';
+var mapbx = new mapboxgl.Map({
+  container: 'mapbx',
+  {% if include.mb_tile %}
+  style: '{{ include.mb_tile }}',
+  {% else %}
+  style: 'mapbox://styles/mapbox/outdoors-v9',
+  {% endif %}
+  center: [{{ page.mlng }}, {{ page.mlat }}],
+  zoom: {{ page.zoom }},
+  scrollZoom: false,
+  attributionControl: false
+  });
+
+
+var nav = new mapboxgl.Navigation({position: 'bottom-right'});
+mapbx.addControl(nav);
+
+var marker = new mapboxgl.Marker()
+  .setLngLat([{{ page.mlng }}, {{ page.mlat }}])
+  .addTo(mapbx);
+{% endif %}
+</script>

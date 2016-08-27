@@ -57,5 +57,12 @@ pre.highlight code,
   border-radius:100%;
 }
 
-
 /* Leaflet Modifications */
+.leafmap {
+  width: 100%;
+  height: 250px;
+}
+.wallmap {
+  width: 100%;
+  height: 500px;
+}
