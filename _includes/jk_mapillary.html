@@ -7,7 +7,11 @@
 var mly = new Mapillary.Viewer(
   'mly',
   '{{ site.author.mapillary_id }}',
-  '{{ include.mly_pkey }}',
+	{% if include.mly_pkey %}
+	'{{ include.mly_pkey }}',
+	{% else %}
+  '{{ page.mly_pkey }}',
+	{% endif %}
   {
     // see options: http://mapillary.github.io/mapillary-js/interfaces/ivieweroptions.html
     "cover": true,

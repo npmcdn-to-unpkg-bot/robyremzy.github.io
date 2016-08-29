@@ -16,12 +16,22 @@ var mapbx = new mapboxgl.Map({
   attributionControl: false
   });
 
-
 var nav = new mapboxgl.Navigation({position: 'bottom-right'});
 mapbx.addControl(nav);
+{% endif %}
 
-var marker = new mapboxgl.Marker()
-  .setLngLat([{{ page.mlng }}, {{ page.mlat }}])
-  .addTo(mapbx);
+{% if page.mapillary and page.mly_pkey %}
+var mapyim = 'https://a.mapillary.com/v2/im/{{ page.mly_pkey }}?client_id={{ site.author.mapillary_id }}';
+$.get(mapyim, function (resp) {
+  mapbx.setCenter([resp.lon, resp.lat]);
+  // var marker = new mapboxgl.Marker(container, {
+  //   icon: mapboxgl.marker.icon({
+  //   "icon": "marker-15",
+  //   'marker-color': '#f86767'
+  //   })
+  // })
+  //   .setLngLat([{{ resp.lon }}, {{ resp.lat }}])
+  //   .addTo(mapbx);
+});
 {% endif %}
 </script>
