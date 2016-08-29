@@ -84,8 +84,8 @@ Create a new file `jk_mapillary.html` inside `_includes` and copy/paste maybe cu
 <div id="mly" style='width: 640px; height: 480px;'></div>
 {% endif %}>
 
-<script>
 {% if page.mapillary %}
+<script>
 var mly = new Mapillary.Viewer(
   'mly',
   '{{ site.mapillary_id }}',
@@ -99,8 +99,8 @@ var mly = new Mapillary.Viewer(
     "maxImageSize": Mapillary.ImageSize.Size2048,
   }
 );
-{% endif %}
 </script>
+{% endif %}
 ```
 {% endraw %}
 
