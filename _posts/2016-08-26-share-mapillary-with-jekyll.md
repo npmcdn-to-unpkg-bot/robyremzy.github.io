@@ -74,7 +74,7 @@ some other stuff going on here!
 {% endraw %}
 
 ### Post enhancement
-Things could be a little tiresome after a while. To keep some readability, our code should blend as much as possible inside the post. We can drop the client id straight into the the code but why not paste it inside the `_config.yml` file. With Jekyll we can use also the liquide object **\{** **\{** **include** **\}** **\}** to call some file from the `_includes` directory.
+Things could be a little tiresome after a while. To keep some readability, our code should blend as much as possible inside the post. We can drop the client id straight into the the code but this value will not change so often so why not paste it inside the `_config.yml` file. With Jekyll we can use also the liquide object **\{** **\{** **include** **\}** **\}** to call some file from the `_includes` directory.
 
 Create a new file `jk_mapillary.html` inside `_includes` and copy/paste maybe customize the content under.
 
