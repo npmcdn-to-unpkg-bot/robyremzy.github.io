@@ -1,0 +1,23 @@
+/* Custome Sprites for mapping and mapillary */
+
+.marker-red,
+.marker-blue,
+.pkey-sbig,
+.pkey,
+.pkey-a,
+.pkey-hl,
+.pkey-hls
+
+{ display: inline-block;
+  background: url('sprites.png') no-repeat;
+  overflow: hidden;
+  text-indent: -9999px;
+  text-align: left; }
+
+.marker-red { background-position: -1px -0px; width: 52px; height: 70px; }
+.marker-blue { background-position: -1px -213px; width: 37px; height: 50px; }
+.pkey-sbig { background-position: -1px -264px; width: 26px; height: 33px; }
+.pkey { background-position: -28px -264px; width: 18px; height: 24px; }
+.pkey-a { background-position: -28px -289px; width: 18px; height: 26px; }
+.pkey-hl { background-position: -1px -71px; width: 52px; height: 70px; }
+.pkey-hls { background-position: -1px -142px; width: 52px; height: 70px; }
