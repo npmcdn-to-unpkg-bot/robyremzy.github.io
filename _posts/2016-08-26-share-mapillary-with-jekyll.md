@@ -154,7 +154,8 @@ See more street level captures [nearby on Mapillary](https://www.mapillary.com/a
 
 If you find this nice to do or even interesting you can check/share on how to mix it with a map with something of your taste...
 
-- [Gist: Mapbox GL JS Map with Mapillary Request](http://bl.ocks.org/RobyRemzy/raw/d1480060fd9492796b8529b357cb2426/)
+- [Gist: Mapbox GL JS Map with a simple Mapillary Request](http://bl.ocks.org/RobyRemzy/raw/d1480060fd9492796b8529b357cb2426/)
+- [Gist: Mapbox GL JS Map with multiple Mapillary Requests](http://bl.ocks.org/RobyRemzy/raw/db28eb9d95aef969946b07d5200713e3/)
 - [GitHub: more mapillary examples](https://github.com/mapillary/mapillary-js-examples)
 
 {% include jk_mapbox.html mb_tile='mapbox://styles/mapbox/bright-v9' %}
