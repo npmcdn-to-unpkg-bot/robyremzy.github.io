@@ -159,3 +159,5 @@ If you find this nice and interesting to do, you can check/share how to mix it w
 - [GitHub: more mapillary examples](https://github.com/mapillary/mapillary-js-examples)
 
 **Thanks To:** [@RatZillaS](https://twitter.com/RatZillaS) and [@zimmy](https://twitter.com/JLZIMMERMANN) for the first and second picture from their work on Mapillary, and for their inspirations!
+
+And a **Special "tack vare"** [Katrin](https://www.mapillary.com/app/user/katrin) from Mapillary, for helping me to [shared this post on their blog](http://blog.mapillary.com/tutorials/2016/09/06/how-to-share-mapillary-in-jekyll.html) : 6 Sept 2016.
