@@ -27,7 +27,7 @@ To use the Mapillary API you need to [register an application](https://www.mapil
 Every field is required and the domain has to be correct
 {: style="text-align: center;"}
 
-Now, to embed street level imagery we will use [MapillaryJS](https://github.com/mapillary/mapillary-js). The whole MapillaryJS is available via CDN here, hosted on "npmcdn". To keep it simple, we will use that solution, but it's possible to use it with "NPM" as well. We may from time to time check back on the version number and update the CDN.
+Now, to embed street level imagery we will use [MapillaryJS](https://github.com/mapillary/mapillary-js). The whole MapillaryJS is available via CDN here, hosted on "unpkg". To keep it simple, we will use that solution, but it's possible to use it with "NPM" as well. We may from time to time check back on the version number and update the CDN.
 
 It will also be a good idea to load MapillaryJS only when our post or article needs it. To do that we have to edit our `post.html` inside the `_layouts` directory. Edit like the example below, just after the layout front matter. We have to basically copy the CDN script and add an `if` tag condition relative to the **key: value** of `mapillary: ok` inside the post/page front matter.
 
@@ -38,8 +38,8 @@ layout: default
 ---
 {% if page.mapillary %}
 <!-- Loading Mapillary -->
-<script src='https://npmcdn.com/mapillary-js@1.6.0/dist/mapillary-js.min.js'></script>
-<link href='https://npmcdn.com/mapillary-js@1.6.0/dist/mapillary-js.min.css' rel='stylesheet' />
+<script src='https://unpkg.com/mapillary-js@1.6.0/dist/mapillary-js.min.js'></script>
+<link href='https://unpkg.com/mapillary-js@1.6.0/dist/mapillary-js.min.css' rel='stylesheet' />
 {% endif %}
 ```
 {% endraw %}

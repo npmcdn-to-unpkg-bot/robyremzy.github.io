@@ -19,8 +19,8 @@ Inside your `_includes` directory open the `head.html` file and paste the CDN:
 
 ```html
 <!-- Leaflet -->
-<link rel="stylesheet" href="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.css" />
-<script src="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@0.7.7/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@0.7.7/dist/leaflet.js"></script>
 ```
 
 Later on you can also build your Jekyll with NPM or Grunt ect...
